@@ -1,0 +1,3114 @@
+[
+  {
+    "id": "signum",
+    "order": 1,
+    "title": {
+      "la": "Signum Crucis",
+      "en": "Sign of the Cross",
+      "es": "Señal de la Cruz"
+    },
+    "about": {
+      "en": "Said while tracing a cross over oneself; it opens and closes almost every prayer and the Mass.",
+      "es": "Se dice trazando una cruz sobre uno mismo; abre y cierra casi toda oración y la Misa."
+    },
+    "lines": [
+      {
+        "speaker": null,
+        "la": "In nomine Patris, et Filii, et Spiritus Sancti. Amen.",
+        "en": "In the name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+        "es": "En el nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+        "tokens": [
+          {
+            "w": "In",
+            "lemma": "in",
+            "pos": "prep",
+            "stress": "in",
+            "parse": {
+              "en": "preposition + ablative: in, on (place where)",
+              "es": "preposición + ablativo: en (lugar donde)"
+            },
+            "gloss": {
+              "en": "in",
+              "es": "en"
+            }
+          },
+          {
+            "w": "nomine",
+            "lemma": "nomen",
+            "pos": "noun",
+            "stress": "nó-mi-ne",
+            "parse": {
+              "en": "noun, ablative singular, neuter, 3rd declension, of nomen — ablative after 'in': in the name",
+              "es": "sustantivo, ablativo singular, neutro, 3ª declinación, de nomen — ablativo tras 'in': en el nombre"
+            },
+            "gloss": {
+              "en": "name",
+              "es": "nombre"
+            }
+          },
+          {
+            "w": "Patris",
+            "lemma": "pater",
+            "pos": "noun",
+            "stress": "Pá-tris",
+            "parse": {
+              "en": "noun, genitive singular, masculine, 3rd declension, of pater — genitive: 'of the Father'",
+              "es": "sustantivo, genitivo singular, masculino, 3ª declinación, de pater — genitivo: 'del Padre'"
+            },
+            "gloss": {
+              "en": "of the Father",
+              "es": "del Padre"
+            }
+          },
+          {
+            "w": "et",
+            "lemma": "et",
+            "pos": "conj",
+            "stress": "et",
+            "parse": {
+              "en": "coordinating conjunction: and",
+              "es": "conjunción coordinante: y"
+            },
+            "gloss": {
+              "en": "and",
+              "es": "y"
+            }
+          },
+          {
+            "w": "Filii",
+            "lemma": "filius",
+            "pos": "noun",
+            "stress": "Fí-li-i",
+            "parse": {
+              "en": "noun, genitive singular, masculine, 2nd declension, of filius — genitive: 'of the Son'",
+              "es": "sustantivo, genitivo singular, masculino, 2ª declinación, de filius — genitivo: 'del Hijo'"
+            },
+            "gloss": {
+              "en": "of the Son",
+              "es": "del Hijo"
+            }
+          },
+          {
+            "w": "et",
+            "lemma": "et",
+            "pos": "conj",
+            "stress": "et",
+            "parse": {
+              "en": "coordinating conjunction: and",
+              "es": "conjunción coordinante: y"
+            },
+            "gloss": {
+              "en": "and",
+              "es": "y"
+            }
+          },
+          {
+            "w": "Spiritus",
+            "lemma": "spiritus",
+            "pos": "noun",
+            "stress": "Spí-ri-tus",
+            "parse": {
+              "en": "noun, genitive singular, masculine, 4th declension, of spiritus — genitive: 'of the Spirit' (4th declension genitive looks like the nominative, -us)",
+              "es": "sustantivo, genitivo singular, masculino, 4ª declinación, de spiritus — genitivo: 'del Espíritu' (en la 4ª declinación el genitivo se parece al nominativo, -us)"
+            },
+            "gloss": {
+              "en": "of the Spirit",
+              "es": "del Espíritu"
+            }
+          },
+          {
+            "w": "Sancti",
+            "lemma": "sanctus",
+            "pos": "adj",
+            "stress": "Sán-cti",
+            "parse": {
+              "en": "adjective, genitive singular, masculine, 1st/2nd declension, of sanctus, agreeing with Spiritus — genitive: 'of the Holy (Spirit)'",
+              "es": "adjetivo, genitivo singular, masculino, 1ª/2ª declinación, de sanctus, concuerda con Spiritus — genitivo: 'del (Espíritu) Santo'"
+            },
+            "gloss": {
+              "en": "Holy",
+              "es": "Santo"
+            }
+          },
+          {
+            "w": "Amen",
+            "lemma": "amen",
+            "pos": "particle",
+            "stress": "Á-men",
+            "parse": {
+              "en": "Hebrew particle, indeclinable: 'truly, so be it'",
+              "es": "partícula hebrea, indeclinable: 'en verdad, así sea'"
+            },
+            "gloss": {
+              "en": "amen, so be it",
+              "es": "amén, así sea"
+            }
+          }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "en": "Genitive case = 'of': Patris, Filii, Spiritus Sancti all mean 'of the Father, of the Son, of the Holy Spirit'. Each depends on 'nomine'.",
+        "es": "Caso genitivo = 'de': Patris, Filii, Spiritus Sancti significan 'del Padre, del Hijo, del Espíritu Santo'. Todos dependen de 'nomine'."
+      },
+      {
+        "en": "'In' + ablative = place where: 'in nomine' (in the name). Nomen (nominative) becomes nomine (ablative).",
+        "es": "'In' + ablativo = lugar donde: 'in nomine' (en el nombre). Nomen (nominativo) pasa a nomine (ablativo)."
+      }
+    ]
+  },
+  {
+    "id": "gloria-patri",
+    "order": 2,
+    "title": {
+      "la": "Gloria Patri",
+      "en": "Glory Be",
+      "es": "Gloria al Padre"
+    },
+    "about": {
+      "en": "The 'lesser doxology', a short praise of the Trinity: it ends every psalm in the Divine Office and every decade of the Rosary.",
+      "es": "La 'doxología menor', breve alabanza a la Trinidad: cierra cada salmo del Oficio Divino y cada decena del Rosario."
+    },
+    "lines": [
+      {
+        "speaker": null,
+        "la": "Gloria Patri, et Filio, et Spiritui Sancto.",
+        "en": "Glory [be] to the Father, and to the Son, and to the Holy Spirit.",
+        "es": "Gloria [sea] al Padre, y al Hijo, y al Espíritu Santo.",
+        "tokens": [
+          {
+            "w": "Gloria",
+            "lemma": "gloria",
+            "pos": "noun",
+            "stress": "Gló-ri-a",
+            "parse": {
+              "en": "noun, nominative singular, feminine, 1st declension, of gloria — subject; the verb 'be' (sit) is understood",
+              "es": "sustantivo, nominativo singular, femenino, 1ª declinación, de gloria — sujeto; el verbo 'ser' (sit) se sobrentiende"
+            },
+            "gloss": {
+              "en": "glory",
+              "es": "gloria"
+            }
+          },
+          {
+            "w": "Patri",
+            "lemma": "pater",
+            "pos": "noun",
+            "stress": "Pá-tri",
+            "parse": {
+              "en": "noun, dative singular, masculine, 3rd declension, of pater — dative: 'to the Father'",
+              "es": "sustantivo, dativo singular, masculino, 3ª declinación, de pater — dativo: 'al Padre'"
+            },
+            "gloss": {
+              "en": "to the Father",
+              "es": "al Padre"
+            }
+          },
+          {
+            "w": "et",
+            "lemma": "et",
+            "pos": "conj",
+            "stress": "et",
+            "parse": {
+              "en": "coordinating conjunction: and",
+              "es": "conjunción coordinante: y"
+            },
+            "gloss": {
+              "en": "and",
+              "es": "y"
+            }
+          },
+          {
+            "w": "Filio",
+            "lemma": "filius",
+            "pos": "noun",
+            "stress": "Fí-li-o",
+            "parse": {
+              "en": "noun, dative singular, masculine, 2nd declension, of filius — dative: 'to the Son'",
+              "es": "sustantivo, dativo singular, masculino, 2ª declinación, de filius — dativo: 'al Hijo'"
+            },
+            "gloss": {
+              "en": "to the Son",
+              "es": "al Hijo"
+            }
+          },
+          {
+            "w": "et",
+            "lemma": "et",
+            "pos": "conj",
+            "stress": "et",
+            "parse": {
+              "en": "coordinating conjunction: and",
+              "es": "conjunción coordinante: y"
+            },
+            "gloss": {
+              "en": "and",
+              "es": "y"
+            }
+          },
+          {
+            "w": "Spiritui",
+            "lemma": "spiritus",
+            "pos": "noun",
+            "stress": "Spi-rí-tu-i",
+            "parse": {
+              "en": "noun, dative singular, masculine, 4th declension, of spiritus — dative: 'to the Spirit'",
+              "es": "sustantivo, dativo singular, masculino, 4ª declinación, de spiritus — dativo: 'al Espíritu'"
+            },
+            "gloss": {
+              "en": "to the Spirit",
+              "es": "al Espíritu"
+            }
+          },
+          {
+            "w": "Sancto",
+            "lemma": "sanctus",
+            "pos": "adj",
+            "stress": "Sán-cto",
+            "parse": {
+              "en": "adjective, dative singular, masculine, 1st/2nd declension, of sanctus, agreeing with Spiritui — dative: 'to the Holy (Spirit)'",
+              "es": "adjetivo, dativo singular, masculino, 1ª/2ª declinación, de sanctus, concuerda con Spiritui — dativo: 'al (Espíritu) Santo'"
+            },
+            "gloss": {
+              "en": "Holy",
+              "es": "Santo"
+            }
+          }
+        ]
+      },
+      {
+        "speaker": null,
+        "la": "Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
+        "en": "As it was in the beginning, and now, and always, and into the ages of ages. Amen.",
+        "es": "Como era en el principio, y ahora, y siempre, y por (lit. hacia) los siglos de los siglos. Amén.",
+        "tokens": [
+          {
+            "w": "Sicut",
+            "lemma": "sicut",
+            "pos": "adv",
+            "stress": "Sí-cut",
+            "parse": {
+              "en": "adverb (comparative): just as, as",
+              "es": "adverbio (comparativo): así como, como"
+            },
+            "gloss": {
+              "en": "as",
+              "es": "como"
+            }
+          },
+          {
+            "w": "erat",
+            "lemma": "sum",
+            "pos": "verb",
+            "stress": "é-rat",
+            "parse": {
+              "en": "verb, 3rd person singular, imperfect indicative, of sum (esse, fui, futurus; no passive): it was",
+              "es": "verbo, 3ª persona singular, pretérito imperfecto de indicativo, de sum (esse, fui, futurus; sin pasiva): era"
+            },
+            "gloss": {
+              "en": "it was",
+              "es": "era"
+            }
+          },
+          {
+            "w": "in",
+            "lemma": "in",
+            "pos": "prep",
+            "stress": "in",
+            "parse": {
+              "en": "preposition + ablative: in, on (place where)",
+              "es": "preposición + ablativo: en (lugar donde)"
+            },
+            "gloss": {
+              "en": "in",
+              "es": "en"
+            }
+          },
+          {
+            "w": "principio",
+            "lemma": "principium",
+            "pos": "noun",
+            "stress": "prin-cí-pi-o",
+            "parse": {
+              "en": "noun, ablative singular, neuter, 2nd declension, of principium — ablative after 'in' (time when): in the beginning",
+              "es": "sustantivo, ablativo singular, neutro, 2ª declinación, de principium — ablativo tras 'in' (tiempo): en el principio"
+            },
+            "gloss": {
+              "en": "beginning",
+              "es": "principio"
+            }
+          },
+          {
+            "w": "et",
+            "lemma": "et",
+            "pos": "conj",
+            "stress": "et",
+            "parse": {
+              "en": "coordinating conjunction: and",
+              "es": "conjunción coordinante: y"
+            },
+            "gloss": {
+              "en": "and",
+              "es": "y"
+            }
+          },
+          {
+            "w": "nunc",
+            "lemma": "nunc",
+            "pos": "adv",
+            "stress": "nunc",
+            "parse": {
+              "en": "adverb of time: now",
+              "es": "adverbio de tiempo: ahora"
+            },
+            "gloss": {
+              "en": "now",
+              "es": "ahora"
+            }
+          },
+          {
+            "w": "et",
+            "lemma": "et",
+            "pos": "conj",
+            "stress": "et",
+            "parse": {
+              "en": "coordinating conjunction: and",
+              "es": "conjunción coordinante: y"
+            },
+            "gloss": {
+              "en": "and",
+              "es": "y"
+            }
+          },
+          {
+            "w": "semper",
+            "lemma": "semper",
+            "pos": "adv",
+            "stress": "sém-per",
+            "parse": {
+              "en": "adverb of time: always",
+              "es": "adverbio de tiempo: siempre"
+            },
+            "gloss": {
+              "en": "always",
+              "es": "siempre"
+            }
+          },
+          {
+            "w": "et",
+            "lemma": "et",
+            "pos": "conj",
+            "stress": "et",
+            "parse": {
+              "en": "coordinating conjunction: and",
+              "es": "conjunción coordinante: y"
+            },
+            "gloss": {
+              "en": "and",
+              "es": "y"
+            }
+          },
+          {
+            "w": "in",
+            "lemma": "in",
+            "pos": "prep",
+            "stress": "in",
+            "parse": {
+              "en": "preposition + accusative: into, toward (motion)",
+              "es": "preposición + acusativo: hacia, a (movimiento)"
+            },
+            "gloss": {
+              "en": "into",
+              "es": "hacia, a"
+            }
+          },
+          {
+            "w": "saecula",
+            "lemma": "saeculum",
+            "pos": "noun",
+            "stress": "sáe-cu-la",
+            "parse": {
+              "en": "noun, accusative plural, neuter, 2nd declension, of saeculum — accusative after 'in' (motion into): into the ages",
+              "es": "sustantivo, acusativo plural, neutro, 2ª declinación, de saeculum — acusativo tras 'in' (movimiento hacia): hacia los siglos"
+            },
+            "gloss": {
+              "en": "ages",
+              "es": "siglos"
+            }
+          },
+          {
+            "w": "saeculorum",
+            "lemma": "saeculum",
+            "pos": "noun",
+            "stress": "sae-cu-ló-rum",
+            "parse": {
+              "en": "noun, genitive plural, neuter, 2nd declension, of saeculum — genitive plural: 'of the ages' — 'ages of ages' = forever",
+              "es": "sustantivo, genitivo plural, neutro, 2ª declinación, de saeculum — genitivo plural: 'de los siglos' — 'siglos de los siglos' = para siempre"
+            },
+            "gloss": {
+              "en": "of ages",
+              "es": "de los siglos"
+            }
+          },
+          {
+            "w": "Amen",
+            "lemma": "amen",
+            "pos": "particle",
+            "stress": "Á-men",
+            "parse": {
+              "en": "Hebrew particle, indeclinable: 'truly, so be it'",
+              "es": "partícula hebrea, indeclinable: 'en verdad, así sea'"
+            },
+            "gloss": {
+              "en": "amen, so be it",
+              "es": "amén, así sea"
+            }
+          }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "en": "Dative case = 'to/for': Patri, Filio, Spiritui Sancto (to the Father, to the Son, to the Holy Spirit). Compare the genitive in the Sign of the Cross: Patris, Filii, Spiritus Sancti.",
+        "es": "Caso dativo = 'a/para': Patri, Filio, Spiritui Sancto (al Padre, al Hijo, al Espíritu Santo). Compáralo con el genitivo de la Señal de la Cruz: Patris, Filii, Spiritus Sancti."
+      },
+      {
+        "en": "'In' changes meaning with the case: 'in principio' (ablative) = in the beginning; 'in saecula' (accusative) = into the ages.",
+        "es": "'In' cambia de sentido según el caso: 'in principio' (ablativo) = en el principio; 'in saecula' (acusativo) = hacia los siglos."
+      },
+      {
+        "en": "No verb in the first line: Latin often leaves out 'be' (sit = may it be). 'Gloria Patri' = '[Be] glory to the Father'.",
+        "es": "La primera línea no tiene verbo: el latín suele omitir 'ser' (sit = sea). 'Gloria Patri' = 'Gloria [sea] al Padre'."
+      }
+    ]
+  },
+  {
+    "id": "ave-maria",
+    "order": 3,
+    "title": {
+      "la": "Ave Maria",
+      "en": "Hail Mary",
+      "es": "Ave María"
+    },
+    "about": {
+      "en": "The angel Gabriel's and Elizabeth's greetings (Luke 1:28, 42) plus a petition; the core prayer of the Rosary and the Angelus.",
+      "es": "Los saludos del ángel Gabriel y de Isabel (Lucas 1,28.42) más una súplica; la oración central del Rosario y del Ángelus."
+    },
+    "lines": [
+      {
+        "speaker": null,
+        "la": "Ave Maria, gratia plena, Dominus tecum.",
+        "en": "Hail Mary, full of grace, the Lord [is] with you.",
+        "es": "Salve, María, llena de gracia, el Señor [está] contigo.",
+        "tokens": [
+          {
+            "w": "Ave",
+            "lemma": "ave",
+            "pos": "interjection",
+            "stress": "Á-ve",
+            "parse": {
+              "en": "interjection, originally the imperative of avere ('to be well'): hail!",
+              "es": "interjección, originalmente imperativo de avere ('estar bien'): ¡salve!"
+            },
+            "gloss": {
+              "en": "hail",
+              "es": "salve, Dios te salve"
+            }
+          },
+          {
+            "w": "Maria",
+            "lemma": "Maria",
+            "pos": "noun",
+            "stress": "Ma-rí-a",
+            "parse": {
+              "en": "noun, vocative singular, feminine, 1st declension, of Maria — vocative: Mary is being spoken to (same form as the nominative)",
+              "es": "sustantivo, vocativo singular, femenino, 1ª declinación, de Maria — vocativo: se le habla a María (misma forma que el nominativo)"
+            },
+            "gloss": {
+              "en": "Mary",
+              "es": "María"
+            }
+          },
+          {
+            "w": "gratia",
+            "lemma": "gratia",
+            "pos": "noun",
+            "stress": "grá-ti-a",
+            "parse": {
+              "en": "noun, ablative singular, feminine, 1st declension, of gratia — ablative with 'plena': full of (lit. with) grace",
+              "es": "sustantivo, ablativo singular, femenino, 1ª declinación, de gratia — ablativo con 'plena': llena de (lit. con) gracia"
+            },
+            "gloss": {
+              "en": "with grace",
+              "es": "de gracia"
+            }
+          },
+          {
+            "w": "plena",
+            "lemma": "plenus",
+            "pos": "adj",
+            "stress": "plé-na",
+            "parse": {
+              "en": "adjective, vocative singular, feminine, 1st/2nd declension, of plenus, agreeing with Maria — addresses Mary",
+              "es": "adjetivo, vocativo singular, femenino, 1ª/2ª declinación, de plenus, concuerda con Maria — se dirige a María"
+            },
+            "gloss": {
+              "en": "full",
+              "es": "llena"
+            }
+          },
+          {
+            "w": "Dominus",
+            "lemma": "dominus",
+            "pos": "noun",
+            "stress": "Dó-mi-nus",
+            "parse": {
+              "en": "noun, nominative singular, masculine, 2nd declension, of dominus — subject; the verb 'is' (est) is understood",
+              "es": "sustantivo, nominativo singular, masculino, 2ª declinación, de dominus — sujeto; el verbo 'está' (est) se sobrentiende"
+            },
+            "gloss": {
+              "en": "the Lord",
+              "es": "el Señor"
+            }
+          },
+          {
+            "w": "tecum",
+            "lemma": "tu",
+            "pos": "pron",
+            "stress": "té-cum",
+            "parse": {
+              "en": "personal pronoun te (ablative singular of tu) + the preposition cum ('with') attached at the end: with you",
+              "es": "pronombre personal te (ablativo singular de tu) + la preposición cum ('con') pegada al final: contigo"
+            },
+            "gloss": {
+              "en": "with you",
+              "es": "contigo"
+            }
+          }
+        ]
+      },
+      {
+        "speaker": null,
+        "la": "Benedicta tu in mulieribus,",
+        "en": "Blessed [are] you among women,",
+        "es": "Bendita [eres] tú entre las mujeres,",
+        "tokens": [
+          {
+            "w": "Benedicta",
+            "lemma": "benedico",
+            "pos": "verb",
+            "stress": "Be-ne-dí-cta",
+            "parse": {
+              "en": "perfect passive participle of benedico, nominative singular feminine, agreeing with 'tu'; used as a predicate with 'are' (es) understood: blessed",
+              "es": "participio perfecto pasivo de benedico, nominativo singular femenino, concuerda con 'tu'; predicado con 'eres' (es) sobrentendido: bendita"
+            },
+            "gloss": {
+              "en": "blessed",
+              "es": "bendita"
+            }
+          },
+          {
+            "w": "tu",
+            "lemma": "tu",
+            "pos": "pron",
+            "stress": "tu",
+            "parse": {
+              "en": "personal pronoun, nominative singular, 2nd person, of tu: you (subject)",
+              "es": "pronombre personal, nominativo singular, 2ª persona, de tu: tú (sujeto)"
+            },
+            "gloss": {
+              "en": "you",
+              "es": "tú"
+            }
+          },
+          {
+            "w": "in",
+            "lemma": "in",
+            "pos": "prep",
+            "stress": "in",
+            "parse": {
+              "en": "preposition + ablative: here 'among'",
+              "es": "preposición + ablativo: aquí 'entre'"
+            },
+            "gloss": {
+              "en": "among",
+              "es": "entre"
+            }
+          },
+          {
+            "w": "mulieribus",
+            "lemma": "mulier",
+            "pos": "noun",
+            "stress": "mu-li-é-ri-bus",
+            "parse": {
+              "en": "noun, ablative plural, feminine, 3rd declension, of mulier — ablative plural after 'in': among women",
+              "es": "sustantivo, ablativo plural, femenino, 3ª declinación, de mulier — ablativo plural tras 'in': entre las mujeres"
+            },
+            "gloss": {
+              "en": "women",
+              "es": "mujeres"
+            }
+          }
+        ]
+      },
+      {
+        "speaker": null,
+        "la": "et benedictus fructus ventris tui, Iesus.",
+        "en": "and blessed [is] the fruit of your womb, Jesus.",
+        "es": "y bendito [es] el fruto de tu vientre, Jesús.",
+        "tokens": [
+          {
+            "w": "et",
+            "lemma": "et",
+            "pos": "conj",
+            "stress": "et",
+            "parse": {
+              "en": "coordinating conjunction: and",
+              "es": "conjunción coordinante: y"
+            },
+            "gloss": {
+              "en": "and",
+              "es": "y"
+            }
+          },
+          {
+            "w": "benedictus",
+            "lemma": "benedico",
+            "pos": "verb",
+            "stress": "be-ne-dí-ctus",
+            "parse": {
+              "en": "perfect passive participle of benedico, nominative singular masculine, agreeing with 'fructus'; 'is' (est) understood: blessed",
+              "es": "participio perfecto pasivo de benedico, nominativo singular masculino, concuerda con 'fructus'; 'es' (est) sobrentendido: bendito"
+            },
+            "gloss": {
+              "en": "blessed",
+              "es": "bendito"
+            }
+          },
+          {
+            "w": "fructus",
+            "lemma": "fructus",
+            "pos": "noun",
+            "stress": "frú-ctus",
+            "parse": {
+              "en": "noun, nominative singular, masculine, 4th declension, of fructus — nominative: subject",
+              "es": "sustantivo, nominativo singular, masculino, 4ª declinación, de fructus — nominativo: sujeto"
+            },
+            "gloss": {
+              "en": "fruit",
+              "es": "fruto"
+            }
+          },
+          {
+            "w": "ventris",
+            "lemma": "venter",
+            "pos": "noun",
+            "stress": "vén-tris",
+            "parse": {
+              "en": "noun, genitive singular, masculine, 3rd declension, of venter — genitive: 'of the womb'",
+              "es": "sustantivo, genitivo singular, masculino, 3ª declinación, de venter — genitivo: 'del vientre'"
+            },
+            "gloss": {
+              "en": "of the womb",
+              "es": "del vientre"
+            }
+          },
+          {
+            "w": "tui",
+            "lemma": "tuus",
+            "pos": "adj",
+            "stress": "tú-i",
+            "parse": {
+              "en": "adjective, genitive singular, masculine, 1st/2nd declension, of tuus, agreeing with ventris — possessive: 'of your (womb)'",
+              "es": "adjetivo, genitivo singular, masculino, 1ª/2ª declinación, de tuus, concuerda con ventris — posesivo: 'de tu (vientre)'"
+            },
+            "gloss": {
+              "en": "your",
+              "es": "tu"
+            }
+          },
+          {
+            "w": "Iesus",
+            "lemma": "Iesus",
+            "pos": "noun",
+            "stress": "Ié-sus",
+            "parse": {
+              "en": "noun, nominative singular, masculine, irregular (Iesus, Iesu, Iesu, Iesum, Iesu), of Iesus — in apposition to 'fructus': the fruit is Jesus",
+              "es": "sustantivo, nominativo singular, masculino, irregular (Iesus, Iesu, Iesu, Iesum, Iesu), de Iesus — en aposición a 'fructus': el fruto es Jesús"
+            },
+            "gloss": {
+              "en": "Jesus",
+              "es": "Jesús"
+            }
+          }
+        ]
+      },
+      {
+        "speaker": null,
+        "la": "Sancta Maria, Mater Dei,",
+        "en": "Holy Mary, Mother of God,",
+        "es": "Santa María, Madre de Dios,",
+        "tokens": [
+          {
+            "w": "Sancta",
+            "lemma": "sanctus",
+            "pos": "adj",
+            "stress": "Sán-cta",
+            "parse": {
+              "en": "adjective, vocative singular, feminine, 1st/2nd declension, of sanctus, agreeing with Maria — Mary is being addressed",
+              "es": "adjetivo, vocativo singular, femenino, 1ª/2ª declinación, de sanctus, concuerda con Maria — se le habla a María"
+            },
+            "gloss": {
+              "en": "holy",
+              "es": "santa"
+            }
+          },
+          {
+            "w": "Maria",
+            "lemma": "Maria",
+            "pos": "noun",
+            "stress": "Ma-rí-a",
+            "parse": {
+              "en": "noun, vocative singular, feminine, 1st declension, of Maria — vocative: Mary is being spoken to (same form as the nominative)",
+              "es": "sustantivo, vocativo singular, femenino, 1ª declinación, de Maria — vocativo: se le habla a María (misma forma que el nominativo)"
+            },
+            "gloss": {
+              "en": "Mary",
+              "es": "María"
+            }
+          },
+          {
+            "w": "Mater",
+            "lemma": "mater",
+            "pos": "noun",
+            "stress": "Má-ter",
+            "parse": {
+              "en": "noun, vocative singular, feminine, 3rd declension, of mater — vocative, in apposition to Maria (same form as the nominative)",
+              "es": "sustantivo, vocativo singular, femenino, 3ª declinación, de mater — vocativo, en aposición a Maria (misma forma que el nominativo)"
+            },
+            "gloss": {
+              "en": "Mother",
+              "es": "Madre"
+            }
+          },
+          {
+            "w": "Dei",
+            "lemma": "deus",
+            "pos": "noun",
+            "stress": "Dé-i",
+            "parse": {
+              "en": "noun, genitive singular, masculine, 2nd declension, of deus — genitive: 'of God'",
+              "es": "sustantivo, genitivo singular, masculino, 2ª declinación, de deus — genitivo: 'de Dios'"
+            },
+            "gloss": {
+              "en": "of God",
+              "es": "de Dios"
+            }
+          }
+        ]
+      },
+      {
+        "speaker": null,
+        "la": "ora pro nobis peccatoribus,",
+        "en": "pray for us sinners,",
+        "es": "ruega por nosotros pecadores,",
+        "tokens": [
+          {
+            "w": "ora",
+            "lemma": "oro",
+            "pos": "verb",
+            "stress": "ó-ra",
+            "parse": {
+              "en": "verb, 2nd person singular, present imperative active, of oro (1st conjugation): pray!",
+              "es": "verbo, 2ª persona singular, presente de imperativo activo, de oro (1ª conjugación): ¡ruega!"
+            },
+            "gloss": {
+              "en": "pray",
+              "es": "ruega"
+            }
+          },
+          {
+            "w": "pro",
+            "lemma": "pro",
+            "pos": "prep",
+            "stress": "pro",
+            "parse": {
+              "en": "preposition + ablative: for, on behalf of",
+              "es": "preposición + ablativo: por, en favor de"
+            },
+            "gloss": {
+              "en": "for",
+              "es": "por"
+            }
+          },
+          {
+            "w": "nobis",
+            "lemma": "nos",
+            "pos": "pron",
+            "stress": "nó-bis",
+            "parse": {
+              "en": "personal pronoun, ablative plural, 1st person, of nos — ablative after 'pro'",
+              "es": "pronombre personal, ablativo plural, 1ª persona, de nos — ablativo tras 'pro'"
+            },
+            "gloss": {
+              "en": "us",
+              "es": "nosotros"
+            }
+          },
+          {
+            "w": "peccatoribus",
+            "lemma": "peccator",
+            "pos": "noun",
+            "stress": "pec-ca-tó-ri-bus",
+            "parse": {
+              "en": "noun, ablative plural, masculine, 3rd declension, of peccator — ablative plural after 'pro', in apposition to 'nobis': us sinners",
+              "es": "sustantivo, ablativo plural, masculino, 3ª declinación, de peccator — ablativo plural tras 'pro', en aposición a 'nobis': nosotros pecadores"
+            },
+            "gloss": {
+              "en": "sinners",
+              "es": "pecadores"
+            }
+          }
+        ]
+      },
+      {
+        "speaker": null,
+        "la": "nunc et in hora mortis nostrae. Amen.",
+        "en": "now and in the hour of our death. Amen.",
+        "es": "ahora y en la hora de nuestra muerte. Amén.",
+        "tokens": [
+          {
+            "w": "nunc",
+            "lemma": "nunc",
+            "pos": "adv",
+            "stress": "nunc",
+            "parse": {
+              "en": "adverb of time: now",
+              "es": "adverbio de tiempo: ahora"
+            },
+            "gloss": {
+              "en": "now",
+              "es": "ahora"
+            }
+          },
+          {
+            "w": "et",
+            "lemma": "et",
+            "pos": "conj",
+            "stress": "et",
+            "parse": {
+              "en": "coordinating conjunction: and",
+              "es": "conjunción coordinante: y"
+            },
+            "gloss": {
+              "en": "and",
+              "es": "y"
+            }
+          },
+          {
+            "w": "in",
+            "lemma": "in",
+            "pos": "prep",
+            "stress": "in",
+            "parse": {
+              "en": "preposition + ablative: in, on (place where)",
+              "es": "preposición + ablativo: en (lugar donde)"
+            },
+            "gloss": {
+              "en": "in",
+              "es": "en"
+            }
+          },
+          {
+            "w": "hora",
+            "lemma": "hora",
+            "pos": "noun",
+            "stress": "hó-ra",
+            "parse": {
+              "en": "noun, ablative singular, feminine, 1st declension, of hora — ablative after 'in' (time when): in the hour",
+              "es": "sustantivo, ablativo singular, femenino, 1ª declinación, de hora — ablativo tras 'in' (tiempo): en la hora"
+            },
+            "gloss": {
+              "en": "hour",
+              "es": "hora"
+            }
+          },
+          {
+            "w": "mortis",
+            "lemma": "mors",
+            "pos": "noun",
+            "stress": "mór-tis",
+            "parse": {
+              "en": "noun, genitive singular, feminine, 3rd declension, of mors — genitive: 'of death'",
+              "es": "sustantivo, genitivo singular, femenino, 3ª declinación, de mors — genitivo: 'de la muerte'"
+            },
+            "gloss": {
+              "en": "of death",
+              "es": "de la muerte"
+            }
+          },
+          {
+            "w": "nostrae",
+            "lemma": "noster",
+            "pos": "adj",
+            "stress": "nó-strae",
+            "parse": {
+              "en": "adjective, genitive singular, feminine, 1st/2nd declension, of noster, agreeing with mortis — possessive: 'of our (death)'",
+              "es": "adjetivo, genitivo singular, femenino, 1ª/2ª declinación, de noster, concuerda con mortis — posesivo: 'de nuestra (muerte)'"
+            },
+            "gloss": {
+              "en": "our",
+              "es": "nuestra"
+            }
+          },
+          {
+            "w": "Amen",
+            "lemma": "amen",
+            "pos": "particle",
+            "stress": "Á-men",
+            "parse": {
+              "en": "Hebrew particle, indeclinable: 'truly, so be it'",
+              "es": "partícula hebrea, indeclinable: 'en verdad, así sea'"
+            },
+            "gloss": {
+              "en": "amen, so be it",
+              "es": "amén, así sea"
+            }
+          }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "en": "Vocative case: the form for speaking TO someone. 'Maria' and 'Sancta Maria, Mater Dei' are vocatives (here they look the same as the nominative).",
+        "es": "Caso vocativo: la forma para hablarle A alguien. 'Maria' y 'Sancta Maria, Mater Dei' son vocativos (aquí son iguales al nominativo)."
+      },
+      {
+        "en": "'Dominus tecum' has no verb: Latin leaves 'is' (est) understood. 'Tecum' = te + cum, with 'cum' glued to the end — just like Spanish 'contigo'.",
+        "es": "'Dominus tecum' no tiene verbo: el latín sobrentiende 'está' (est). 'Tecum' = te + cum, con 'cum' pegado al final — igual que 'contigo' en español."
+      },
+      {
+        "en": "'Pro' takes the ablative: 'pro nobis peccatoribus' (for us sinners). 'Ora' is a command (imperative): pray!",
+        "es": "'Pro' rige ablativo: 'pro nobis peccatoribus' (por nosotros pecadores). 'Ora' es una orden (imperativo): ¡ruega!"
+      }
+    ]
+  },
+  {
+    "id": "pater-noster",
+    "order": 4,
+    "title": {
+      "la": "Pater Noster",
+      "en": "Our Father",
+      "es": "Padre Nuestro"
+    },
+    "about": {
+      "en": "The Lord's Prayer, taught by Jesus (Matthew 6:9–13); prayed at Mass before Communion, in the Office and in the Rosary. In the Latin liturgy it ends at 'a malo'.",
+      "es": "La oración del Señor, enseñada por Jesús (Mateo 6,9–13); se reza en la Misa antes de la Comunión, en el Oficio y en el Rosario. En la liturgia latina termina en 'a malo'."
+    },
+    "lines": [
+      {
+        "speaker": null,
+        "la": "Pater noster, qui es in caelis,",
+        "en": "Our Father, who are in the heavens,",
+        "es": "Padre nuestro, que estás en los cielos,",
+        "tokens": [
+          {
+            "w": "Pater",
+            "lemma": "pater",
+            "pos": "noun",
+            "stress": "Pá-ter",
+            "parse": {
+              "en": "noun, vocative singular, masculine, 3rd declension, of pater — vocative: God is being spoken to",
+              "es": "sustantivo, vocativo singular, masculino, 3ª declinación, de pater — vocativo: se le habla a Dios"
+            },
+            "gloss": {
+              "en": "Father",
+              "es": "Padre"
+            }
+          },
+          {
+            "w": "noster",
+            "lemma": "noster",
+            "pos": "adj",
+            "stress": "nó-ster",
+            "parse": {
+              "en": "adjective, vocative singular, masculine, 1st/2nd declension, of noster, agreeing with Pater — same form as the nominative",
+              "es": "adjetivo, vocativo singular, masculino, 1ª/2ª declinación, de noster, concuerda con Pater — misma forma que el nominativo"
+            },
+            "gloss": {
+              "en": "our",
+              "es": "nuestro"
+            }
+          },
+          {
+            "w": "qui",
+            "lemma": "qui",
+            "pos": "pron",
+            "stress": "qui",
+            "parse": {
+              "en": "relative pronoun, nominative singular, masculine, of qui; refers back to 'Pater' and is the subject of 'es'",
+              "es": "pronombre relativo, nominativo singular, masculino, de qui; se refiere a 'Pater' y es sujeto de 'es'"
+            },
+            "gloss": {
+              "en": "who",
+              "es": "que"
+            }
+          },
+          {
+            "w": "es",
+            "lemma": "sum",
+            "pos": "verb",
+            "stress": "es",
+            "parse": {
+              "en": "verb, 2nd person singular, present indicative, of sum (esse, fui, futurus; no passive): you are",
+              "es": "verbo, 2ª persona singular, presente de indicativo, de sum (esse, fui, futurus; sin pasiva): (tú) estás / eres"
+            },
+            "gloss": {
+              "en": "you are",
+              "es": "estás"
+            }
+          },
+          {
+            "w": "in",
+            "lemma": "in",
+            "pos": "prep",
+            "stress": "in",
+            "parse": {
+              "en": "preposition + ablative: in, on (place where)",
+              "es": "preposición + ablativo: en (lugar donde)"
+            },
+            "gloss": {
+              "en": "in",
+              "es": "en"
+            }
+          },
+          {
+            "w": "caelis",
+            "lemma": "caelum",
+            "pos": "noun",
+            "stress": "cáe-lis",
+            "parse": {
+              "en": "noun, ablative plural, masculine, 2nd declension, of caelum — ablative plural after 'in' (in the plural caelum is usually masculine: caeli)",
+              "es": "sustantivo, ablativo plural, masculino, 2ª declinación, de caelum — ablativo plural tras 'in' (en plural caelum suele ser masculino: caeli)"
+            },
+            "gloss": {
+              "en": "the heavens",
+              "es": "los cielos"
+            }
+          }
+        ]
+      },
+      {
+        "speaker": null,
+        "la": "sanctificetur nomen tuum.",
+        "en": "may your name be made holy.",
+        "es": "sea santificado tu nombre.",
+        "tokens": [
+          {
+            "w": "sanctificetur",
+            "lemma": "sanctifico",
+            "pos": "verb",
+            "stress": "san-cti-fi-cé-tur",
+            "parse": {
+              "en": "verb, 3rd person singular, present subjunctive passive, of sanctifico (1st conjugation): may it be hallowed — subjunctive of wish",
+              "es": "verbo, 3ª persona singular, presente de subjuntivo pasivo, de sanctifico (1ª conjugación): sea santificado — subjuntivo de deseo"
+            },
+            "gloss": {
+              "en": "may it be hallowed",
+              "es": "sea santificado"
+            }
+          },
+          {
+            "w": "nomen",
+            "lemma": "nomen",
+            "pos": "noun",
+            "stress": "nó-men",
+            "parse": {
+              "en": "noun, nominative singular, neuter, 3rd declension, of nomen — nominative: subject of 'sanctificetur'",
+              "es": "sustantivo, nominativo singular, neutro, 3ª declinación, de nomen — nominativo: sujeto de 'sanctificetur'"
+            },
+            "gloss": {
+              "en": "name",
+              "es": "nombre"
+            }
+          },
+          {
+            "w": "tuum",
+            "lemma": "tuus",
+            "pos": "adj",
+            "stress": "tú-um",
+            "parse": {
+              "en": "adjective, nominative singular, neuter, 1st/2nd declension, of tuus, agreeing with nomen — possessive",
+              "es": "adjetivo, nominativo singular, neutro, 1ª/2ª declinación, de tuus, concuerda con nomen — posesivo"
+            },
+            "gloss": {
+              "en": "your",
+              "es": "tu"
+            }
+          }
+        ]
+      },
+      {
+        "speaker": null,
+        "la": "Adveniat regnum tuum.",
+        "en": "May your kingdom come.",
+        "es": "Venga tu reino.",
+        "tokens": [
+          {
+            "w": "Adveniat",
+            "lemma": "advenio",
+            "pos": "verb",
+            "stress": "Ad-vé-ni-at",
+            "parse": {
+              "en": "verb, 3rd person singular, present subjunctive active, of advenio (4th conjugation): may it come — subjunctive of wish",
+              "es": "verbo, 3ª persona singular, presente de subjuntivo activo, de advenio (4ª conjugación): venga — subjuntivo de deseo"
+            },
+            "gloss": {
+              "en": "may it come",
+              "es": "venga"
+            }
+          },
+          {
+            "w": "regnum",
+            "lemma": "regnum",
+            "pos": "noun",
+            "stress": "ré-gnum",
+            "parse": {
+              "en": "noun, nominative singular, neuter, 2nd declension, of regnum — nominative: subject of 'adveniat'",
+              "es": "sustantivo, nominativo singular, neutro, 2ª declinación, de regnum — nominativo: sujeto de 'adveniat'"
+            },
+            "gloss": {
+              "en": "kingdom",
+              "es": "reino"
+            }
+          },
+          {
+            "w": "tuum",
+            "lemma": "tuus",
+            "pos": "adj",
+            "stress": "tú-um",
+            "parse": {
+              "en": "adjective, nominative singular, neuter, 1st/2nd declension, of tuus, agreeing with regnum — possessive",
+              "es": "adjetivo, nominativo singular, neutro, 1ª/2ª declinación, de tuus, concuerda con regnum — posesivo"
+            },
+            "gloss": {
+              "en": "your",
+              "es": "tu"
+            }
+          }
+        ]
+      },
+      {
+        "speaker": null,
+        "la": "Fiat voluntas tua, sicut in caelo et in terra.",
+        "en": "May your will be done, as in heaven, [so] also on earth.",
+        "es": "Hágase tu voluntad, como en el cielo, [así] también en la tierra.",
+        "tokens": [
+          {
+            "w": "Fiat",
+            "lemma": "fio",
+            "pos": "verb",
+            "stress": "Fí-at",
+            "parse": {
+              "en": "verb, 3rd person singular, present subjunctive, of fio (fieri, factus sum; active in form, used as the passive of facio): may it be done — subjunctive of wish",
+              "es": "verbo, 3ª persona singular, presente de subjuntivo, de fio (fieri, factus sum; forma activa, sirve de pasiva de facio): hágase — subjuntivo de deseo"
+            },
+            "gloss": {
+              "en": "may it be done",
+              "es": "hágase"
+            }
+          },
+          {
+            "w": "voluntas",
+            "lemma": "voluntas",
+            "pos": "noun",
+            "stress": "vo-lún-tas",
+            "parse": {
+              "en": "noun, nominative singular, feminine, 3rd declension, of voluntas — nominative: subject of 'fiat'",
+              "es": "sustantivo, nominativo singular, femenino, 3ª declinación, de voluntas — nominativo: sujeto de 'fiat'"
+            },
+            "gloss": {
+              "en": "will",
+              "es": "voluntad"
+            }
+          },
+          {
+            "w": "tua",
+            "lemma": "tuus",
+            "pos": "adj",
+            "stress": "tú-a",
+            "parse": {
+              "en": "adjective, nominative singular, feminine, 1st/2nd declension, of tuus, agreeing with voluntas — possessive",
+              "es": "adjetivo, nominativo singular, femenino, 1ª/2ª declinación, de tuus, concuerda con voluntas — posesivo"
+            },
+            "gloss": {
+              "en": "your",
+              "es": "tu"
+            }
+          },
+          {
+            "w": "sicut",
+            "lemma": "sicut",
+            "pos": "adv",
+            "stress": "sí-cut",
+            "parse": {
+              "en": "adverb (comparative): just as, as",
+              "es": "adverbio (comparativo): así como, como"
+            },
+            "gloss": {
+              "en": "as",
+              "es": "como"
+            }
+          },
+          {
+            "w": "in",
+            "lemma": "in",
+            "pos": "prep",
+            "stress": "in",
+            "parse": {
+              "en": "preposition + ablative: in, on (place where)",
+              "es": "preposición + ablativo: en (lugar donde)"
+            },
+            "gloss": {
+              "en": "in",
+              "es": "en"
+            }
+          },
+          {
+            "w": "caelo",
+            "lemma": "caelum",
+            "pos": "noun",
+            "stress": "cáe-lo",
+            "parse": {
+              "en": "noun, ablative singular, neuter, 2nd declension, of caelum — ablative after 'in'",
+              "es": "sustantivo, ablativo singular, neutro, 2ª declinación, de caelum — ablativo tras 'in'"
+            },
+            "gloss": {
+              "en": "heaven",
+              "es": "cielo"
+            }
+          },
+          {
+            "w": "et",
+            "lemma": "et",
+            "pos": "adv",
+            "stress": "et",
+            "parse": {
+              "en": "conjunction used as an adverb here: also, so too",
+              "es": "conjunción usada aquí como adverbio: también, así también"
+            },
+            "gloss": {
+              "en": "also",
+              "es": "también"
+            }
+          },
+          {
+            "w": "in",
+            "lemma": "in",
+            "pos": "prep",
+            "stress": "in",
+            "parse": {
+              "en": "preposition + ablative: in, on (place where)",
+              "es": "preposición + ablativo: en (lugar donde)"
+            },
+            "gloss": {
+              "en": "in",
+              "es": "en"
+            }
+          },
+          {
+            "w": "terra",
+            "lemma": "terra",
+            "pos": "noun",
+            "stress": "tér-ra",
+            "parse": {
+              "en": "noun, ablative singular, feminine, 1st declension, of terra — ablative after 'in'",
+              "es": "sustantivo, ablativo singular, femenino, 1ª declinación, de terra — ablativo tras 'in'"
+            },
+            "gloss": {
+              "en": "earth",
+              "es": "tierra"
+            }
+          }
+        ]
+      },
+      {
+        "speaker": null,
+        "la": "Panem nostrum quotidianum da nobis hodie,",
+        "en": "Our daily bread give us today,",
+        "es": "Nuestro pan cotidiano danos hoy,",
+        "tokens": [
+          {
+            "w": "Panem",
+            "lemma": "panis",
+            "pos": "noun",
+            "stress": "Pá-nem",
+            "parse": {
+              "en": "noun, accusative singular, masculine, 3rd declension, of panis — accusative: direct object of 'da'",
+              "es": "sustantivo, acusativo singular, masculino, 3ª declinación, de panis — acusativo: complemento directo de 'da'"
+            },
+            "gloss": {
+              "en": "bread",
+              "es": "pan"
+            }
+          },
+          {
+            "w": "nostrum",
+            "lemma": "noster",
+            "pos": "adj",
+            "stress": "nó-strum",
+            "parse": {
+              "en": "adjective, accusative singular, masculine, 1st/2nd declension, of noster, agreeing with Panem — possessive",
+              "es": "adjetivo, acusativo singular, masculino, 1ª/2ª declinación, de noster, concuerda con Panem — posesivo"
+            },
+            "gloss": {
+              "en": "our",
+              "es": "nuestro"
+            }
+          },
+          {
+            "w": "quotidianum",
+            "lemma": "quotidianus",
+            "pos": "adj",
+            "stress": "quo-ti-di-á-num",
+            "parse": {
+              "en": "adjective, accusative singular, masculine, 1st/2nd declension, of quotidianus, agreeing with Panem",
+              "es": "adjetivo, acusativo singular, masculino, 1ª/2ª declinación, de quotidianus, concuerda con Panem"
+            },
+            "gloss": {
+              "en": "daily",
+              "es": "cotidiano, de cada día"
+            }
+          },
+          {
+            "w": "da",
+            "lemma": "do",
+            "pos": "verb",
+            "stress": "da",
+            "parse": {
+              "en": "verb, 2nd person singular, present imperative active, of do (dare, dedi, datum; 1st conjugation): give!",
+              "es": "verbo, 2ª persona singular, presente de imperativo activo, de do (dare, dedi, datum; 1ª conjugación): ¡da!"
+            },
+            "gloss": {
+              "en": "give",
+              "es": "da"
+            }
+          },
+          {
+            "w": "nobis",
+            "lemma": "nos",
+            "pos": "pron",
+            "stress": "nó-bis",
+            "parse": {
+              "en": "personal pronoun, dative plural, 1st person, of nos — dative: indirect object, 'to us'",
+              "es": "pronombre personal, dativo plural, 1ª persona, de nos — dativo: complemento indirecto, 'a nosotros'"
+            },
+            "gloss": {
+              "en": "to us",
+              "es": "nos"
+            }
+          },
+          {
+            "w": "hodie",
+            "lemma": "hodie",
+            "pos": "adv",
+            "stress": "hó-di-e",
+            "parse": {
+              "en": "adverb of time: today",
+              "es": "adverbio de tiempo: hoy"
+            },
+            "gloss": {
+              "en": "today",
+              "es": "hoy"
+            }
+          }
+        ]
+      },
+      {
+        "speaker": null,
+        "la": "et dimitte nobis debita nostra,",
+        "en": "and forgive us our debts,",
+        "es": "y perdónanos nuestras deudas,",
+        "tokens": [
+          {
+            "w": "et",
+            "lemma": "et",
+            "pos": "conj",
+            "stress": "et",
+            "parse": {
+              "en": "coordinating conjunction: and",
+              "es": "conjunción coordinante: y"
+            },
+            "gloss": {
+              "en": "and",
+              "es": "y"
+            }
+          },
+          {
+            "w": "dimitte",
+            "lemma": "dimitto",
+            "pos": "verb",
+            "stress": "di-mít-te",
+            "parse": {
+              "en": "verb, 2nd person singular, present imperative active, of dimitto (3rd conjugation): forgive! (lit. send away, let go)",
+              "es": "verbo, 2ª persona singular, presente de imperativo activo, de dimitto (3ª conjugación): ¡perdona! (lit. despide, suelta)"
+            },
+            "gloss": {
+              "en": "forgive",
+              "es": "perdona"
+            }
+          },
+          {
+            "w": "nobis",
+            "lemma": "nos",
+            "pos": "pron",
+            "stress": "nó-bis",
+            "parse": {
+              "en": "personal pronoun, dative plural, 1st person, of nos — dative: indirect object, 'to us / for us'",
+              "es": "pronombre personal, dativo plural, 1ª persona, de nos — dativo: complemento indirecto, 'a nosotros'"
+            },
+            "gloss": {
+              "en": "us",
+              "es": "nos"
+            }
+          },
+          {
+            "w": "debita",
+            "lemma": "debitum",
+            "pos": "noun",
+            "stress": "dé-bi-ta",
+            "parse": {
+              "en": "noun, accusative plural, neuter, 2nd declension, of debitum — accusative plural: direct object of 'dimitte'",
+              "es": "sustantivo, acusativo plural, neutro, 2ª declinación, de debitum — acusativo plural: complemento directo de 'dimitte'"
+            },
+            "gloss": {
+              "en": "debts",
+              "es": "deudas"
+            }
+          },
+          {
+            "w": "nostra",
+            "lemma": "noster",
+            "pos": "adj",
+            "stress": "nó-stra",
+            "parse": {
+              "en": "adjective, accusative plural, neuter, 1st/2nd declension, of noster, agreeing with debita — possessive",
+              "es": "adjetivo, acusativo plural, neutro, 1ª/2ª declinación, de noster, concuerda con debita — posesivo"
+            },
+            "gloss": {
+              "en": "our",
+              "es": "nuestras"
+            }
+          }
+        ]
+      },
+      {
+        "speaker": null,
+        "la": "sicut et nos dimittimus debitoribus nostris.",
+        "en": "as we also forgive our debtors.",
+        "es": "como también nosotros perdonamos a nuestros deudores.",
+        "tokens": [
+          {
+            "w": "sicut",
+            "lemma": "sicut",
+            "pos": "adv",
+            "stress": "sí-cut",
+            "parse": {
+              "en": "adverb (comparative): just as, as",
+              "es": "adverbio (comparativo): así como, como"
+            },
+            "gloss": {
+              "en": "as",
+              "es": "como"
+            }
+          },
+          {
+            "w": "et",
+            "lemma": "et",
+            "pos": "adv",
+            "stress": "et",
+            "parse": {
+              "en": "conjunction used as an adverb here: also",
+              "es": "conjunción usada aquí como adverbio: también"
+            },
+            "gloss": {
+              "en": "also",
+              "es": "también"
+            }
+          },
+          {
+            "w": "nos",
+            "lemma": "nos",
+            "pos": "pron",
+            "stress": "nos",
+            "parse": {
+              "en": "personal pronoun, nominative plural, 1st person, of nos — subject (stated for emphasis: 'we')",
+              "es": "pronombre personal, nominativo plural, 1ª persona, de nos — sujeto (expreso por énfasis: 'nosotros')"
+            },
+            "gloss": {
+              "en": "we",
+              "es": "nosotros"
+            }
+          },
+          {
+            "w": "dimittimus",
+            "lemma": "dimitto",
+            "pos": "verb",
+            "stress": "di-mít-ti-mus",
+            "parse": {
+              "en": "verb, 1st person plural, present indicative active, of dimitto (3rd conjugation): we forgive",
+              "es": "verbo, 1ª persona plural, presente de indicativo activo, de dimitto (3ª conjugación): perdonamos"
+            },
+            "gloss": {
+              "en": "we forgive",
+              "es": "perdonamos"
+            }
+          },
+          {
+            "w": "debitoribus",
+            "lemma": "debitor",
+            "pos": "noun",
+            "stress": "de-bi-tó-ri-bus",
+            "parse": {
+              "en": "noun, dative plural, masculine, 3rd declension, of debitor — dative plural: indirect object, 'to our debtors'",
+              "es": "sustantivo, dativo plural, masculino, 3ª declinación, de debitor — dativo plural: complemento indirecto, 'a nuestros deudores'"
+            },
+            "gloss": {
+              "en": "debtors",
+              "es": "deudores"
+            }
+          },
+          {
+            "w": "nostris",
+            "lemma": "noster",
+            "pos": "adj",
+            "stress": "nó-stris",
+            "parse": {
+              "en": "adjective, dative plural, masculine, 1st/2nd declension, of noster, agreeing with debitoribus — possessive",
+              "es": "adjetivo, dativo plural, masculino, 1ª/2ª declinación, de noster, concuerda con debitoribus — posesivo"
+            },
+            "gloss": {
+              "en": "our",
+              "es": "nuestros"
+            }
+          }
+        ]
+      },
+      {
+        "speaker": null,
+        "la": "Et ne nos inducas in tentationem,",
+        "en": "And do not lead us into temptation,",
+        "es": "Y no nos lleves a la tentación,",
+        "tokens": [
+          {
+            "w": "Et",
+            "lemma": "et",
+            "pos": "conj",
+            "stress": "et",
+            "parse": {
+              "en": "coordinating conjunction: and",
+              "es": "conjunción coordinante: y"
+            },
+            "gloss": {
+              "en": "and",
+              "es": "y"
+            }
+          },
+          {
+            "w": "ne",
+            "lemma": "ne",
+            "pos": "particle",
+            "stress": "ne",
+            "parse": {
+              "en": "negative particle; 'ne' + present subjunctive = a negative command: do not ...",
+              "es": "partícula negativa; 'ne' + presente de subjuntivo = orden negativa: no ..."
+            },
+            "gloss": {
+              "en": "not",
+              "es": "no"
+            }
+          },
+          {
+            "w": "nos",
+            "lemma": "nos",
+            "pos": "pron",
+            "stress": "nos",
+            "parse": {
+              "en": "personal pronoun, accusative plural, 1st person, of nos — direct object of 'inducas'",
+              "es": "pronombre personal, acusativo plural, 1ª persona, de nos — complemento directo de 'inducas'"
+            },
+            "gloss": {
+              "en": "us",
+              "es": "nos"
+            }
+          },
+          {
+            "w": "inducas",
+            "lemma": "induco",
+            "pos": "verb",
+            "stress": "in-dú-cas",
+            "parse": {
+              "en": "verb, 2nd person singular, present subjunctive active, of induco (3rd conjugation): (do not) lead — with 'ne' it is a prohibition",
+              "es": "verbo, 2ª persona singular, presente de subjuntivo activo, de induco (3ª conjugación): (no) lleves — con 'ne' es una prohibición"
+            },
+            "gloss": {
+              "en": "lead (into)",
+              "es": "lleves, induzcas"
+            }
+          },
+          {
+            "w": "in",
+            "lemma": "in",
+            "pos": "prep",
+            "stress": "in",
+            "parse": {
+              "en": "preposition + accusative: into, toward (motion)",
+              "es": "preposición + acusativo: hacia, a (movimiento)"
+            },
+            "gloss": {
+              "en": "into",
+              "es": "hacia, a"
+            }
+          },
+          {
+            "w": "tentationem",
+            "lemma": "tentatio",
+            "pos": "noun",
+            "stress": "ten-ta-ti-ó-nem",
+            "parse": {
+              "en": "noun, accusative singular, feminine, 3rd declension, of tentatio — accusative after 'in' (motion): into temptation",
+              "es": "sustantivo, acusativo singular, femenino, 3ª declinación, de tentatio — acusativo tras 'in' (movimiento): a la tentación"
+            },
+            "gloss": {
+              "en": "temptation",
+              "es": "tentación"
+            }
+          }
+        ]
+      },
+      {
+        "speaker": null,
+        "la": "sed libera nos a malo. Amen.",
+        "en": "but free us from evil. Amen.",
+        "es": "sino líbranos del mal. Amén.",
+        "tokens": [
+          {
+            "w": "sed",
+            "lemma": "sed",
+            "pos": "conj",
+            "stress": "sed",
+            "parse": {
+              "en": "coordinating conjunction: but (rather)",
+              "es": "conjunción coordinante adversativa: sino, mas"
+            },
+            "gloss": {
+              "en": "but",
+              "es": "sino, mas"
+            }
+          },
+          {
+            "w": "libera",
+            "lemma": "libero",
+            "pos": "verb",
+            "stress": "lí-be-ra",
+            "parse": {
+              "en": "verb, 2nd person singular, present imperative active, of libero (1st conjugation): free!",
+              "es": "verbo, 2ª persona singular, presente de imperativo activo, de libero (1ª conjugación): ¡libra!"
+            },
+            "gloss": {
+              "en": "free, deliver",
+              "es": "libra"
+            }
+          },
+          {
+            "w": "nos",
+            "lemma": "nos",
+            "pos": "pron",
+            "stress": "nos",
+            "parse": {
+              "en": "personal pronoun, accusative plural, 1st person, of nos — direct object of 'libera'",
+              "es": "pronombre personal, acusativo plural, 1ª persona, de nos — complemento directo de 'libera'"
+            },
+            "gloss": {
+              "en": "us",
+              "es": "nos"
+            }
+          },
+          {
+            "w": "a",
+            "lemma": "a",
+            "pos": "prep",
+            "stress": "a",
+            "parse": {
+              "en": "preposition + ablative (a/ab): from, away from",
+              "es": "preposición + ablativo (a/ab): de, desde (alejamiento)"
+            },
+            "gloss": {
+              "en": "from",
+              "es": "de"
+            }
+          },
+          {
+            "w": "malo",
+            "lemma": "malus",
+            "pos": "adj",
+            "stress": "má-lo",
+            "parse": {
+              "en": "adjective used as a noun, ablative singular after 'a', of malus: neuter 'evil' (or masculine 'the evil one')",
+              "es": "adjetivo usado como sustantivo, ablativo singular tras 'a', de malus: neutro 'el mal' (o masculino 'el maligno')"
+            },
+            "gloss": {
+              "en": "evil",
+              "es": "mal"
+            }
+          },
+          {
+            "w": "Amen",
+            "lemma": "amen",
+            "pos": "particle",
+            "stress": "Á-men",
+            "parse": {
+              "en": "Hebrew particle, indeclinable: 'truly, so be it'",
+              "es": "partícula hebrea, indeclinable: 'en verdad, así sea'"
+            },
+            "gloss": {
+              "en": "amen, so be it",
+              "es": "amén, así sea"
+            }
+          }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "en": "Wishes use the present subjunctive: sanctificetur (may it be hallowed), adveniat (may it come), fiat (may it be done) — like Spanish 'sea', 'venga', 'hágase'.",
+        "es": "Los deseos usan el presente de subjuntivo: sanctificetur (sea santificado), adveniat (venga), fiat (hágase) — igual que en español."
+      },
+      {
+        "en": "Commands use the imperative: da (give), dimitte (forgive), libera (free). A negative command uses 'ne' + subjunctive: 'ne nos inducas' (do not lead us).",
+        "es": "Las órdenes usan el imperativo: da (da), dimitte (perdona), libera (libra). La orden negativa usa 'ne' + subjuntivo: 'ne nos inducas' (no nos lleves)."
+      },
+      {
+        "en": "Same pronoun, different cases: 'nobis' (dative: to us) in 'da nobis'; 'nos' (accusative: us) in 'libera nos'; 'nos' (nominative: we) in 'nos dimittimus'.",
+        "es": "Mismo pronombre, distintos casos: 'nobis' (dativo: a nosotros) en 'da nobis'; 'nos' (acusativo: nos) en 'libera nos'; 'nos' (nominativo: nosotros) en 'nos dimittimus'."
+      }
+    ]
+  },
+  {
+    "id": "kyrie",
+    "order": 5,
+    "language": "grc",
+    "title": {
+      "la": "Kyrie eleison",
+      "en": "Lord, Have Mercy",
+      "es": "Señor, ten piedad"
+    },
+    "about": {
+      "en": "GREEK, not Latin: a litany near the start of Mass, kept in Greek inside the Latin rite. Traditionally each line is sung three times (nine in all).",
+      "es": "GRIEGO, no latín: una letanía al inicio de la Misa, conservada en griego dentro del rito latino. Tradicionalmente cada línea se canta tres veces (nueve en total)."
+    },
+    "lines": [
+      {
+        "speaker": null,
+        "language": "grc",
+        "la": "Kyrie, eleison.",
+        "en": "Lord, have mercy.",
+        "es": "Señor, ten piedad.",
+        "tokens": [
+          {
+            "w": "Kyrie",
+            "lemma": "Kyrios",
+            "pos": "noun",
+            "stress": "Ký-ri-e",
+            "parse": {
+              "en": "GREEK noun, vocative singular, masculine, of Kyrios (Κύριος): O Lord",
+              "es": "sustantivo GRIEGO, vocativo singular, masculino, de Kyrios (Κύριος): oh Señor"
+            },
+            "gloss": {
+              "en": "Lord",
+              "es": "Señor"
+            }
+          },
+          {
+            "w": "eleison",
+            "lemma": "eleeo",
+            "pos": "verb",
+            "stress": "e-lé-i-son",
+            "parse": {
+              "en": "GREEK verb, 2nd person singular, aorist imperative active, of eleeo (ἐλεέω): have mercy!",
+              "es": "verbo GRIEGO, 2ª persona singular, aoristo de imperativo activo, de eleeo (ἐλεέω): ¡ten piedad!"
+            },
+            "gloss": {
+              "en": "have mercy",
+              "es": "ten piedad"
+            }
+          }
+        ]
+      },
+      {
+        "speaker": null,
+        "language": "grc",
+        "la": "Christe, eleison.",
+        "en": "Christ, have mercy.",
+        "es": "Cristo, ten piedad.",
+        "tokens": [
+          {
+            "w": "Christe",
+            "lemma": "Christus",
+            "pos": "noun",
+            "stress": "Chrí-ste",
+            "parse": {
+              "en": "noun, vocative singular, masculine, 2nd declension, of Christus (Greek Christos, 'Anointed'): O Christ",
+              "es": "sustantivo, vocativo singular, masculino, 2ª declinación, de Christus (griego Christós, 'Ungido'): oh Cristo"
+            },
+            "gloss": {
+              "en": "Christ",
+              "es": "Cristo"
+            }
+          },
+          {
+            "w": "eleison",
+            "lemma": "eleeo",
+            "pos": "verb",
+            "stress": "e-lé-i-son",
+            "parse": {
+              "en": "GREEK verb, 2nd person singular, aorist imperative active, of eleeo (ἐλεέω): have mercy!",
+              "es": "verbo GRIEGO, 2ª persona singular, aoristo de imperativo activo, de eleeo (ἐλεέω): ¡ten piedad!"
+            },
+            "gloss": {
+              "en": "have mercy",
+              "es": "ten piedad"
+            }
+          }
+        ]
+      },
+      {
+        "speaker": null,
+        "language": "grc",
+        "la": "Kyrie, eleison.",
+        "en": "Lord, have mercy.",
+        "es": "Señor, ten piedad.",
+        "tokens": [
+          {
+            "w": "Kyrie",
+            "lemma": "Kyrios",
+            "pos": "noun",
+            "stress": "Ký-ri-e",
+            "parse": {
+              "en": "GREEK noun, vocative singular, masculine, of Kyrios (Κύριος): O Lord",
+              "es": "sustantivo GRIEGO, vocativo singular, masculino, de Kyrios (Κύριος): oh Señor"
+            },
+            "gloss": {
+              "en": "Lord",
+              "es": "Señor"
+            }
+          },
+          {
+            "w": "eleison",
+            "lemma": "eleeo",
+            "pos": "verb",
+            "stress": "e-lé-i-son",
+            "parse": {
+              "en": "GREEK verb, 2nd person singular, aorist imperative active, of eleeo (ἐλεέω): have mercy!",
+              "es": "verbo GRIEGO, 2ª persona singular, aoristo de imperativo activo, de eleeo (ἐλεέω): ¡ten piedad!"
+            },
+            "gloss": {
+              "en": "have mercy",
+              "es": "ten piedad"
+            }
+          }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "en": "This prayer is Greek, the oldest language of the Church's liturgy; the Latin Mass kept it untranslated.",
+        "es": "Esta oración es griega, la lengua litúrgica más antigua de la Iglesia; la Misa latina la conservó sin traducir."
+      },
+      {
+        "en": "Vocative in -e: Kyrie (from Kyrios) and Christe (from Christus/Christos). Latin 2nd-declension nouns in -us also make their vocative in -e (Christe, Domine).",
+        "es": "Vocativo en -e: Kyrie (de Kyrios) y Christe (de Christus/Christos). Los sustantivos latinos de la 2ª declinación en -us también forman el vocativo en -e (Christe, Domine)."
+      }
+    ]
+  },
+  {
+    "id": "dominus-vobiscum",
+    "order": 6,
+    "title": {
+      "la": "Dominus vobiscum",
+      "en": "The Lord Be with You",
+      "es": "El Señor esté con ustedes"
+    },
+    "about": {
+      "en": "Dialogue between the priest (V.) and the people (R.). 'Dominus vobiscum' is said many times in the Mass; the full exchange opens the Preface before the Sanctus.",
+      "es": "Diálogo entre el sacerdote (V.) y el pueblo (R.). 'Dominus vobiscum' se dice muchas veces en la Misa; el diálogo completo abre el Prefacio antes del Sanctus."
+    },
+    "lines": [
+      {
+        "speaker": "V",
+        "la": "Dominus vobiscum.",
+        "en": "The Lord [be] with you.",
+        "es": "El Señor [esté] con ustedes.",
+        "tokens": [
+          {
+            "w": "Dominus",
+            "lemma": "dominus",
+            "pos": "noun",
+            "stress": "Dó-mi-nus",
+            "parse": {
+              "en": "noun, nominative singular, masculine, 2nd declension, of dominus — subject; the verb 'be' (sit) is understood",
+              "es": "sustantivo, nominativo singular, masculino, 2ª declinación, de dominus — sujeto; el verbo 'esté' (sit) se sobrentiende"
+            },
+            "gloss": {
+              "en": "the Lord",
+              "es": "el Señor"
+            }
+          },
+          {
+            "w": "vobiscum",
+            "lemma": "vos",
+            "pos": "pron",
+            "stress": "vo-bí-scum",
+            "parse": {
+              "en": "personal pronoun vobis (ablative plural of vos) + the preposition cum ('with') attached at the end: with you (all)",
+              "es": "pronombre personal vobis (ablativo plural de vos) + la preposición cum ('con') pegada al final: con ustedes / con vosotros"
+            },
+            "gloss": {
+              "en": "with you (all)",
+              "es": "con ustedes"
+            }
+          }
+        ]
+      },
+      {
+        "speaker": "R",
+        "la": "Et cum spiritu tuo.",
+        "en": "And with your spirit.",
+        "es": "Y con tu espíritu.",
+        "tokens": [
+          {
+            "w": "Et",
+            "lemma": "et",
+            "pos": "conj",
+            "stress": "et",
+            "parse": {
+              "en": "coordinating conjunction: and",
+              "es": "conjunción coordinante: y"
+            },
+            "gloss": {
+              "en": "and",
+              "es": "y"
+            }
+          },
+          {
+            "w": "cum",
+            "lemma": "cum",
+            "pos": "prep",
+            "stress": "cum",
+            "parse": {
+              "en": "preposition + ablative: with",
+              "es": "preposición + ablativo: con"
+            },
+            "gloss": {
+              "en": "with",
+              "es": "con"
+            }
+          },
+          {
+            "w": "spiritu",
+            "lemma": "spiritus",
+            "pos": "noun",
+            "stress": "spí-ri-tu",
+            "parse": {
+              "en": "noun, ablative singular, masculine, 4th declension, of spiritus — ablative after 'cum'",
+              "es": "sustantivo, ablativo singular, masculino, 4ª declinación, de spiritus — ablativo tras 'cum'"
+            },
+            "gloss": {
+              "en": "spirit",
+              "es": "espíritu"
+            }
+          },
+          {
+            "w": "tuo",
+            "lemma": "tuus",
+            "pos": "adj",
+            "stress": "tú-o",
+            "parse": {
+              "en": "adjective, ablative singular, masculine, 1st/2nd declension, of tuus, agreeing with spiritu — possessive",
+              "es": "adjetivo, ablativo singular, masculino, 1ª/2ª declinación, de tuus, concuerda con spiritu — posesivo"
+            },
+            "gloss": {
+              "en": "your",
+              "es": "tu"
+            }
+          }
+        ]
+      },
+      {
+        "speaker": "V",
+        "la": "Sursum corda.",
+        "en": "Upward [the] hearts.",
+        "es": "Arriba los corazones.",
+        "tokens": [
+          {
+            "w": "Sursum",
+            "lemma": "sursum",
+            "pos": "adv",
+            "stress": "Súr-sum",
+            "parse": {
+              "en": "adverb of place: upward, on high",
+              "es": "adverbio de lugar: hacia arriba, en alto"
+            },
+            "gloss": {
+              "en": "up",
+              "es": "arriba"
+            }
+          },
+          {
+            "w": "corda",
+            "lemma": "cor",
+            "pos": "noun",
+            "stress": "cór-da",
+            "parse": {
+              "en": "noun, accusative plural, neuter, 3rd declension, of cor — accusative plural, object of an understood verb ('lift'/'have'); the form is the same as the nominative",
+              "es": "sustantivo, acusativo plural, neutro, 3ª declinación, de cor — acusativo plural, objeto de un verbo sobrentendido ('levanten'/'tengan'); misma forma que el nominativo"
+            },
+            "gloss": {
+              "en": "hearts",
+              "es": "corazones"
+            }
+          }
+        ]
+      },
+      {
+        "speaker": "R",
+        "la": "Habemus ad Dominum.",
+        "en": "We have [them] toward the Lord.",
+        "es": "Los tenemos hacia el Señor.",
+        "tokens": [
+          {
+            "w": "Habemus",
+            "lemma": "habeo",
+            "pos": "verb",
+            "stress": "Ha-bé-mus",
+            "parse": {
+              "en": "verb, 1st person plural, present indicative active, of habeo (2nd conjugation): we have (them)",
+              "es": "verbo, 1ª persona plural, presente de indicativo activo, de habeo (2ª conjugación): (los) tenemos"
+            },
+            "gloss": {
+              "en": "we have",
+              "es": "tenemos"
+            }
+          },
+          {
+            "w": "ad",
+            "lemma": "ad",
+            "pos": "prep",
+            "stress": "ad",
+            "parse": {
+              "en": "preposition + accusative: to, toward",
+              "es": "preposición + acusativo: a, hacia"
+            },
+            "gloss": {
+              "en": "toward",
+              "es": "hacia"
+            }
+          },
+          {
+            "w": "Dominum",
+            "lemma": "dominus",
+            "pos": "noun",
+            "stress": "Dó-mi-num",
+            "parse": {
+              "en": "noun, accusative singular, masculine, 2nd declension, of dominus — accusative after 'ad'",
+              "es": "sustantivo, acusativo singular, masculino, 2ª declinación, de dominus — acusativo tras 'ad'"
+            },
+            "gloss": {
+              "en": "the Lord",
+              "es": "el Señor"
+            }
+          }
+        ]
+      },
+      {
+        "speaker": "V",
+        "la": "Gratias agamus Domino Deo nostro.",
+        "en": "Let us give thanks to the Lord our God.",
+        "es": "Demos gracias al Señor, nuestro Dios.",
+        "tokens": [
+          {
+            "w": "Gratias",
+            "lemma": "gratia",
+            "pos": "noun",
+            "stress": "Grá-ti-as",
+            "parse": {
+              "en": "noun, accusative plural, feminine, 1st declension, of gratia — accusative plural: object of 'agamus'; in the plural gratia means 'thanks'",
+              "es": "sustantivo, acusativo plural, femenino, 1ª declinación, de gratia — acusativo plural: complemento de 'agamus'; en plural gratia significa 'gracias'"
+            },
+            "gloss": {
+              "en": "thanks",
+              "es": "gracias"
+            }
+          },
+          {
+            "w": "agamus",
+            "lemma": "ago",
+            "pos": "verb",
+            "stress": "a-gá-mus",
+            "parse": {
+              "en": "verb, 1st person plural, present subjunctive active, of ago (3rd conjugation): let us give/do — hortatory subjunctive",
+              "es": "verbo, 1ª persona plural, presente de subjuntivo activo, de ago (3ª conjugación): demos/hagamos — subjuntivo exhortativo"
+            },
+            "gloss": {
+              "en": "let us give",
+              "es": "demos"
+            }
+          },
+          {
+            "w": "Domino",
+            "lemma": "dominus",
+            "pos": "noun",
+            "stress": "Dó-mi-no",
+            "parse": {
+              "en": "noun, dative singular, masculine, 2nd declension, of dominus — dative: 'to the Lord' (to whom thanks are given)",
+              "es": "sustantivo, dativo singular, masculino, 2ª declinación, de dominus — dativo: 'al Señor' (a quien se dan las gracias)"
+            },
+            "gloss": {
+              "en": "to the Lord",
+              "es": "al Señor"
+            }
+          },
+          {
+            "w": "Deo",
+            "lemma": "deus",
+            "pos": "noun",
+            "stress": "Dé-o",
+            "parse": {
+              "en": "noun, dative singular, masculine, 2nd declension, of deus — dative, in apposition to 'Domino'",
+              "es": "sustantivo, dativo singular, masculino, 2ª declinación, de deus — dativo, en aposición a 'Domino'"
+            },
+            "gloss": {
+              "en": "God",
+              "es": "Dios"
+            }
+          },
+          {
+            "w": "nostro",
+            "lemma": "noster",
+            "pos": "adj",
+            "stress": "nó-stro",
+            "parse": {
+              "en": "adjective, dative singular, masculine, 1st/2nd declension, of noster, agreeing with Deo — possessive",
+              "es": "adjetivo, dativo singular, masculino, 1ª/2ª declinación, de noster, concuerda con Deo — posesivo"
+            },
+            "gloss": {
+              "en": "our",
+              "es": "nuestro"
+            }
+          }
+        ]
+      },
+      {
+        "speaker": "R",
+        "la": "Dignum et iustum est.",
+        "en": "Worthy and just it is.",
+        "es": "Digno y justo es.",
+        "tokens": [
+          {
+            "w": "Dignum",
+            "lemma": "dignus",
+            "pos": "adj",
+            "stress": "Dí-gnum",
+            "parse": {
+              "en": "adjective, nominative singular, neuter, 1st/2nd declension, of dignus, agreeing with the understood subject 'it' (neuter) — predicate adjective",
+              "es": "adjetivo, nominativo singular, neutro, 1ª/2ª declinación, de dignus, concuerda con el sujeto sobrentendido 'ello' (neutro) — adjetivo predicativo"
+            },
+            "gloss": {
+              "en": "worthy, fitting",
+              "es": "digno"
+            }
+          },
+          {
+            "w": "et",
+            "lemma": "et",
+            "pos": "conj",
+            "stress": "et",
+            "parse": {
+              "en": "coordinating conjunction: and",
+              "es": "conjunción coordinante: y"
+            },
+            "gloss": {
+              "en": "and",
+              "es": "y"
+            }
+          },
+          {
+            "w": "iustum",
+            "lemma": "iustus",
+            "pos": "adj",
+            "stress": "iú-stum",
+            "parse": {
+              "en": "adjective, nominative singular, neuter, 1st/2nd declension, of iustus, agreeing with the understood subject 'it' (neuter) — predicate adjective",
+              "es": "adjetivo, nominativo singular, neutro, 1ª/2ª declinación, de iustus, concuerda con el sujeto sobrentendido 'ello' (neutro) — adjetivo predicativo"
+            },
+            "gloss": {
+              "en": "just, right",
+              "es": "justo"
+            }
+          },
+          {
+            "w": "est",
+            "lemma": "sum",
+            "pos": "verb",
+            "stress": "est",
+            "parse": {
+              "en": "verb, 3rd person singular, present indicative, of sum (esse, fui, futurus; no passive): it is",
+              "es": "verbo, 3ª persona singular, presente de indicativo, de sum (esse, fui, futurus; sin pasiva): es"
+            },
+            "gloss": {
+              "en": "it is",
+              "es": "es"
+            }
+          }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "en": "'Vobiscum' = vobis + cum ('with you all'), like 'tecum' (with you, singular). Latin glues 'cum' to the end of personal pronouns.",
+        "es": "'Vobiscum' = vobis + cum ('con ustedes'), como 'tecum' (contigo). El latín pega 'cum' al final de los pronombres personales."
+      },
+      {
+        "en": "'Agamus' is a hortatory subjunctive: 'let us give'. 'Gratias agere' (lit. 'to do thanks') is the Latin idiom for 'to give thanks'.",
+        "es": "'Agamus' es un subjuntivo exhortativo: 'demos'. 'Gratias agere' (lit. 'hacer gracias') es el modismo latino para 'dar gracias'."
+      },
+      {
+        "en": "Neuter adjectives for 'it': 'Dignum et iustum est' — the subject 'it' (giving thanks) is not written, so the adjectives are neuter.",
+        "es": "Adjetivos neutros para 'ello': 'Dignum et iustum est' — el sujeto 'ello' (dar gracias) no se escribe, por eso los adjetivos son neutros."
+      }
+    ]
+  },
+  {
+    "id": "sanctus",
+    "order": 7,
+    "title": {
+      "la": "Sanctus",
+      "en": "Holy, Holy, Holy",
+      "es": "Santo, Santo, Santo"
+    },
+    "about": {
+      "en": "Sung at the end of the Preface, just before the Eucharistic Prayer; from the angels' song in Isaiah 6:3 and the Palm Sunday crowd (Matthew 21:9).",
+      "es": "Se canta al final del Prefacio, justo antes de la Plegaria Eucarística; del canto de los ángeles en Isaías 6,3 y de la multitud del Domingo de Ramos (Mateo 21,9)."
+    },
+    "lines": [
+      {
+        "speaker": null,
+        "la": "Sanctus, Sanctus, Sanctus Dominus Deus Sabaoth.",
+        "en": "Holy, Holy, Holy [is the] Lord God of hosts.",
+        "es": "Santo, Santo, Santo [es el] Señor Dios de los ejércitos.",
+        "tokens": [
+          {
+            "w": "Sanctus",
+            "lemma": "sanctus",
+            "pos": "adj",
+            "stress": "Sán-ctus",
+            "parse": {
+              "en": "adjective, nominative singular, masculine, 1st/2nd declension, of sanctus, agreeing with Dominus — predicate, with 'is' (est) understood",
+              "es": "adjetivo, nominativo singular, masculino, 1ª/2ª declinación, de sanctus, concuerda con Dominus — predicado, con 'es' (est) sobrentendido"
+            },
+            "gloss": {
+              "en": "holy",
+              "es": "santo"
+            }
+          },
+          {
+            "w": "Sanctus",
+            "lemma": "sanctus",
+            "pos": "adj",
+            "stress": "Sán-ctus",
+            "parse": {
+              "en": "adjective, nominative singular, masculine, 1st/2nd declension, of sanctus, agreeing with Dominus — predicate, with 'is' (est) understood",
+              "es": "adjetivo, nominativo singular, masculino, 1ª/2ª declinación, de sanctus, concuerda con Dominus — predicado, con 'es' (est) sobrentendido"
+            },
+            "gloss": {
+              "en": "holy",
+              "es": "santo"
+            }
+          },
+          {
+            "w": "Sanctus",
+            "lemma": "sanctus",
+            "pos": "adj",
+            "stress": "Sán-ctus",
+            "parse": {
+              "en": "adjective, nominative singular, masculine, 1st/2nd declension, of sanctus, agreeing with Dominus — predicate, with 'is' (est) understood",
+              "es": "adjetivo, nominativo singular, masculino, 1ª/2ª declinación, de sanctus, concuerda con Dominus — predicado, con 'es' (est) sobrentendido"
+            },
+            "gloss": {
+              "en": "holy",
+              "es": "santo"
+            }
+          },
+          {
+            "w": "Dominus",
+            "lemma": "dominus",
+            "pos": "noun",
+            "stress": "Dó-mi-nus",
+            "parse": {
+              "en": "noun, nominative singular, masculine, 2nd declension, of dominus — nominative: subject",
+              "es": "sustantivo, nominativo singular, masculino, 2ª declinación, de dominus — nominativo: sujeto"
+            },
+            "gloss": {
+              "en": "Lord",
+              "es": "Señor"
+            }
+          },
+          {
+            "w": "Deus",
+            "lemma": "deus",
+            "pos": "noun",
+            "stress": "Dé-us",
+            "parse": {
+              "en": "noun, nominative singular, masculine, 2nd declension, of deus — nominative, in apposition to 'Dominus'",
+              "es": "sustantivo, nominativo singular, masculino, 2ª declinación, de deus — nominativo, en aposición a 'Dominus'"
+            },
+            "gloss": {
+              "en": "God",
+              "es": "Dios"
+            }
+          },
+          {
+            "w": "Sabaoth",
+            "lemma": "Sabaoth",
+            "pos": "noun",
+            "stress": "Sá-ba-oth",
+            "parse": {
+              "en": "HEBREW noun, indeclinable (plural of tsaba, 'army'); here it works like a genitive: of hosts",
+              "es": "sustantivo HEBREO, indeclinable (plural de tsaba, 'ejército'); aquí funciona como genitivo: de los ejércitos"
+            },
+            "gloss": {
+              "en": "of hosts (armies)",
+              "es": "de los ejércitos"
+            }
+          }
+        ]
+      },
+      {
+        "speaker": null,
+        "la": "Pleni sunt caeli et terra gloria tua.",
+        "en": "Full are the heavens and the earth of your glory.",
+        "es": "Llenos están los cielos y la tierra de tu gloria.",
+        "tokens": [
+          {
+            "w": "Pleni",
+            "lemma": "plenus",
+            "pos": "adj",
+            "stress": "Plé-ni",
+            "parse": {
+              "en": "adjective, nominative plural, masculine, 1st/2nd declension, of plenus, agreeing with caeli (and terra) — predicate adjective; masculine plural to match 'caeli'",
+              "es": "adjetivo, nominativo plural, masculino, 1ª/2ª declinación, de plenus, concuerda con caeli (y terra) — adjetivo predicativo; masculino plural para concordar con 'caeli'"
+            },
+            "gloss": {
+              "en": "full",
+              "es": "llenos"
+            }
+          },
+          {
+            "w": "sunt",
+            "lemma": "sum",
+            "pos": "verb",
+            "stress": "sunt",
+            "parse": {
+              "en": "verb, 3rd person plural, present indicative, of sum (esse, fui, futurus; no passive): they are",
+              "es": "verbo, 3ª persona plural, presente de indicativo, de sum (esse, fui, futurus; sin pasiva): están / son"
+            },
+            "gloss": {
+              "en": "are",
+              "es": "están"
+            }
+          },
+          {
+            "w": "caeli",
+            "lemma": "caelum",
+            "pos": "noun",
+            "stress": "cáe-li",
+            "parse": {
+              "en": "noun, nominative plural, masculine, 2nd declension, of caelum — nominative plural: subject (caelum is neuter in the singular but masculine in the plural)",
+              "es": "sustantivo, nominativo plural, masculino, 2ª declinación, de caelum — nominativo plural: sujeto (caelum es neutro en singular pero masculino en plural)"
+            },
+            "gloss": {
+              "en": "the heavens",
+              "es": "los cielos"
+            }
+          },
+          {
+            "w": "et",
+            "lemma": "et",
+            "pos": "conj",
+            "stress": "et",
+            "parse": {
+              "en": "coordinating conjunction: and",
+              "es": "conjunción coordinante: y"
+            },
+            "gloss": {
+              "en": "and",
+              "es": "y"
+            }
+          },
+          {
+            "w": "terra",
+            "lemma": "terra",
+            "pos": "noun",
+            "stress": "tér-ra",
+            "parse": {
+              "en": "noun, nominative singular, feminine, 1st declension, of terra — nominative: second subject",
+              "es": "sustantivo, nominativo singular, femenino, 1ª declinación, de terra — nominativo: segundo sujeto"
+            },
+            "gloss": {
+              "en": "the earth",
+              "es": "la tierra"
+            }
+          },
+          {
+            "w": "gloria",
+            "lemma": "gloria",
+            "pos": "noun",
+            "stress": "gló-ri-a",
+            "parse": {
+              "en": "noun, ablative singular, feminine, 1st declension, of gloria — ablative with 'pleni': full of (lit. with) glory",
+              "es": "sustantivo, ablativo singular, femenino, 1ª declinación, de gloria — ablativo con 'pleni': llenos de (lit. con) gloria"
+            },
+            "gloss": {
+              "en": "with glory",
+              "es": "de gloria"
+            }
+          },
+          {
+            "w": "tua",
+            "lemma": "tuus",
+            "pos": "adj",
+            "stress": "tú-a",
+            "parse": {
+              "en": "adjective, ablative singular, feminine, 1st/2nd declension, of tuus, agreeing with gloria — possessive",
+              "es": "adjetivo, ablativo singular, femenino, 1ª/2ª declinación, de tuus, concuerda con gloria — posesivo"
+            },
+            "gloss": {
+              "en": "your",
+              "es": "tu"
+            }
+          }
+        ]
+      },
+      {
+        "speaker": null,
+        "la": "Hosanna in excelsis.",
+        "en": "Hosanna in the highest.",
+        "es": "Hosanna en las alturas.",
+        "tokens": [
+          {
+            "w": "Hosanna",
+            "lemma": "hosanna",
+            "pos": "interjection",
+            "stress": "Ho-sán-na",
+            "parse": {
+              "en": "HEBREW interjection, indeclinable: originally 'save, please!', used as a shout of praise",
+              "es": "interjección HEBREA, indeclinable: originalmente '¡salva, te rogamos!', usada como grito de alabanza"
+            },
+            "gloss": {
+              "en": "hosanna",
+              "es": "hosanna"
+            }
+          },
+          {
+            "w": "in",
+            "lemma": "in",
+            "pos": "prep",
+            "stress": "in",
+            "parse": {
+              "en": "preposition + ablative: in, on (place where)",
+              "es": "preposición + ablativo: en (lugar donde)"
+            },
+            "gloss": {
+              "en": "in",
+              "es": "en"
+            }
+          },
+          {
+            "w": "excelsis",
+            "lemma": "excelsus",
+            "pos": "adj",
+            "stress": "ex-cél-sis",
+            "parse": {
+              "en": "adjective used as a noun, ablative plural, neuter, 1st/2nd declension, of excelsus — after 'in': in the highest (places)",
+              "es": "adjetivo usado como sustantivo, ablativo plural, neutro, 1ª/2ª declinación, de excelsus — tras 'in': en las alturas"
+            },
+            "gloss": {
+              "en": "the highest (heights)",
+              "es": "las alturas"
+            }
+          }
+        ]
+      },
+      {
+        "speaker": null,
+        "la": "Benedictus qui venit in nomine Domini.",
+        "en": "Blessed [is he] who comes in the name of the Lord.",
+        "es": "Bendito [el] que viene en el nombre del Señor.",
+        "tokens": [
+          {
+            "w": "Benedictus",
+            "lemma": "benedico",
+            "pos": "verb",
+            "stress": "Be-ne-dí-ctus",
+            "parse": {
+              "en": "perfect passive participle of benedico, nominative singular masculine, used as a predicate with 'is' (est) understood: blessed [is he]",
+              "es": "participio perfecto pasivo de benedico, nominativo singular masculino, predicado con 'es' (est) sobrentendido: bendito [es]"
+            },
+            "gloss": {
+              "en": "blessed",
+              "es": "bendito"
+            }
+          },
+          {
+            "w": "qui",
+            "lemma": "qui",
+            "pos": "pron",
+            "stress": "qui",
+            "parse": {
+              "en": "relative pronoun, nominative singular, masculine, of qui; subject of 'venit' (antecedent 'he' understood)",
+              "es": "pronombre relativo, nominativo singular, masculino, de qui; sujeto de 'venit' (antecedente 'el' sobrentendido)"
+            },
+            "gloss": {
+              "en": "(he) who",
+              "es": "el que"
+            }
+          },
+          {
+            "w": "venit",
+            "lemma": "venio",
+            "pos": "verb",
+            "stress": "vé-nit",
+            "parse": {
+              "en": "verb, 3rd person singular, present indicative active, of venio (4th conjugation): he comes (the perfect 'he came' is spelled the same, vēnit, but here it is present)",
+              "es": "verbo, 3ª persona singular, presente de indicativo activo, de venio (4ª conjugación): viene (el perfecto 'vino' se escribe igual, vēnit, pero aquí es presente)"
+            },
+            "gloss": {
+              "en": "comes",
+              "es": "viene"
+            }
+          },
+          {
+            "w": "in",
+            "lemma": "in",
+            "pos": "prep",
+            "stress": "in",
+            "parse": {
+              "en": "preposition + ablative: in, on (place where)",
+              "es": "preposición + ablativo: en (lugar donde)"
+            },
+            "gloss": {
+              "en": "in",
+              "es": "en"
+            }
+          },
+          {
+            "w": "nomine",
+            "lemma": "nomen",
+            "pos": "noun",
+            "stress": "nó-mi-ne",
+            "parse": {
+              "en": "noun, ablative singular, neuter, 3rd declension, of nomen — ablative after 'in'",
+              "es": "sustantivo, ablativo singular, neutro, 3ª declinación, de nomen — ablativo tras 'in'"
+            },
+            "gloss": {
+              "en": "name",
+              "es": "nombre"
+            }
+          },
+          {
+            "w": "Domini",
+            "lemma": "dominus",
+            "pos": "noun",
+            "stress": "Dó-mi-ni",
+            "parse": {
+              "en": "noun, genitive singular, masculine, 2nd declension, of dominus — genitive: 'of the Lord'",
+              "es": "sustantivo, genitivo singular, masculino, 2ª declinación, de dominus — genitivo: 'del Señor'"
+            },
+            "gloss": {
+              "en": "of the Lord",
+              "es": "del Señor"
+            }
+          }
+        ]
+      },
+      {
+        "speaker": null,
+        "la": "Hosanna in excelsis.",
+        "en": "Hosanna in the highest.",
+        "es": "Hosanna en las alturas.",
+        "tokens": [
+          {
+            "w": "Hosanna",
+            "lemma": "hosanna",
+            "pos": "interjection",
+            "stress": "Ho-sán-na",
+            "parse": {
+              "en": "HEBREW interjection, indeclinable: originally 'save, please!', used as a shout of praise",
+              "es": "interjección HEBREA, indeclinable: originalmente '¡salva, te rogamos!', usada como grito de alabanza"
+            },
+            "gloss": {
+              "en": "hosanna",
+              "es": "hosanna"
+            }
+          },
+          {
+            "w": "in",
+            "lemma": "in",
+            "pos": "prep",
+            "stress": "in",
+            "parse": {
+              "en": "preposition + ablative: in, on (place where)",
+              "es": "preposición + ablativo: en (lugar donde)"
+            },
+            "gloss": {
+              "en": "in",
+              "es": "en"
+            }
+          },
+          {
+            "w": "excelsis",
+            "lemma": "excelsus",
+            "pos": "adj",
+            "stress": "ex-cél-sis",
+            "parse": {
+              "en": "adjective used as a noun, ablative plural, neuter, 1st/2nd declension, of excelsus — after 'in': in the highest (places)",
+              "es": "adjetivo usado como sustantivo, ablativo plural, neutro, 1ª/2ª declinación, de excelsus — tras 'in': en las alturas"
+            },
+            "gloss": {
+              "en": "the highest (heights)",
+              "es": "las alturas"
+            }
+          }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "en": "Agreement: 'Pleni' (masculine plural) matches 'caeli', which is masculine in the plural even though 'caelum' is neuter in the singular.",
+        "es": "Concordancia: 'Pleni' (masculino plural) concuerda con 'caeli', que es masculino en plural aunque 'caelum' sea neutro en singular."
+      },
+      {
+        "en": "'Benedictus' is a participle (blessed), from benedico. With no verb written, Latin understands 'is': 'Blessed [is he] who comes'.",
+        "es": "'Benedictus' es un participio (bendito), de benedico. Sin verbo escrito, el latín sobrentiende 'es': 'Bendito [es] el que viene'."
+      },
+      {
+        "en": "Two Hebrew words stay untranslated: 'Sabaoth' (hosts, armies) and 'Hosanna' (a cry of praise). Neither one declines.",
+        "es": "Dos palabras hebreas quedan sin traducir: 'Sabaoth' (ejércitos) y 'Hosanna' (grito de alabanza). Ninguna se declina."
+      }
+    ]
+  },
+  {
+    "id": "agnus-dei",
+    "order": 8,
+    "title": {
+      "la": "Agnus Dei",
+      "en": "Lamb of God",
+      "es": "Cordero de Dios"
+    },
+    "about": {
+      "en": "Sung before Communion while the Host is broken; it echoes John the Baptist's words in John 1:29.",
+      "es": "Se canta antes de la Comunión mientras se parte la Hostia; recoge las palabras de Juan el Bautista en Juan 1,29."
+    },
+    "lines": [
+      {
+        "speaker": null,
+        "la": "Agnus Dei, qui tollis peccata mundi: miserere nobis.",
+        "en": "Lamb of God, who take away the sins of the world: have mercy on us.",
+        "es": "Cordero de Dios, que quitas los pecados del mundo: ten piedad de nosotros.",
+        "tokens": [
+          {
+            "w": "Agnus",
+            "lemma": "agnus",
+            "pos": "noun",
+            "stress": "Á-gnus",
+            "parse": {
+              "en": "noun, nominative singular, masculine, 2nd declension, of agnus — the nominative is used here to address Christ (instead of the vocative 'agne')",
+              "es": "sustantivo, nominativo singular, masculino, 2ª declinación, de agnus — aquí el nominativo se usa para hablarle a Cristo (en vez del vocativo 'agne')"
+            },
+            "gloss": {
+              "en": "Lamb",
+              "es": "Cordero"
+            }
+          },
+          {
+            "w": "Dei",
+            "lemma": "deus",
+            "pos": "noun",
+            "stress": "Dé-i",
+            "parse": {
+              "en": "noun, genitive singular, masculine, 2nd declension, of deus — genitive: 'of God'",
+              "es": "sustantivo, genitivo singular, masculino, 2ª declinación, de deus — genitivo: 'de Dios'"
+            },
+            "gloss": {
+              "en": "of God",
+              "es": "de Dios"
+            }
+          },
+          {
+            "w": "qui",
+            "lemma": "qui",
+            "pos": "pron",
+            "stress": "qui",
+            "parse": {
+              "en": "relative pronoun, nominative singular, masculine, of qui; refers to 'Agnus' and is the subject of 'tollis'",
+              "es": "pronombre relativo, nominativo singular, masculino, de qui; se refiere a 'Agnus' y es sujeto de 'tollis'"
+            },
+            "gloss": {
+              "en": "who",
+              "es": "que"
+            }
+          },
+          {
+            "w": "tollis",
+            "lemma": "tollo",
+            "pos": "verb",
+            "stress": "tól-lis",
+            "parse": {
+              "en": "verb, 2nd person singular, present indicative active, of tollo (3rd conjugation): you take away",
+              "es": "verbo, 2ª persona singular, presente de indicativo activo, de tollo (3ª conjugación): quitas"
+            },
+            "gloss": {
+              "en": "you take away",
+              "es": "quitas"
+            }
+          },
+          {
+            "w": "peccata",
+            "lemma": "peccatum",
+            "pos": "noun",
+            "stress": "pec-cá-ta",
+            "parse": {
+              "en": "noun, accusative plural, neuter, 2nd declension, of peccatum — accusative plural: direct object of 'tollis'",
+              "es": "sustantivo, acusativo plural, neutro, 2ª declinación, de peccatum — acusativo plural: complemento directo de 'tollis'"
+            },
+            "gloss": {
+              "en": "sins",
+              "es": "pecados"
+            }
+          },
+          {
+            "w": "mundi",
+            "lemma": "mundus",
+            "pos": "noun",
+            "stress": "mún-di",
+            "parse": {
+              "en": "noun, genitive singular, masculine, 2nd declension, of mundus — genitive: 'of the world'",
+              "es": "sustantivo, genitivo singular, masculino, 2ª declinación, de mundus — genitivo: 'del mundo'"
+            },
+            "gloss": {
+              "en": "of the world",
+              "es": "del mundo"
+            }
+          },
+          {
+            "w": "miserere",
+            "lemma": "misereor",
+            "pos": "verb",
+            "stress": "mi-se-ré-re",
+            "parse": {
+              "en": "verb, 2nd person singular, present imperative, of the DEPONENT misereor (2nd conjugation; passive form, active meaning): have mercy!",
+              "es": "verbo, 2ª persona singular, presente de imperativo, del DEPONENTE misereor (2ª conjugación; forma pasiva, sentido activo): ¡ten piedad!"
+            },
+            "gloss": {
+              "en": "have mercy",
+              "es": "ten piedad"
+            }
+          },
+          {
+            "w": "nobis",
+            "lemma": "nos",
+            "pos": "pron",
+            "stress": "nó-bis",
+            "parse": {
+              "en": "personal pronoun, dative plural, 1st person, of nos — dative: 'on us' (misereor takes the dative in Church Latin; classical Latin used the genitive)",
+              "es": "pronombre personal, dativo plural, 1ª persona, de nos — dativo: 'de nosotros' (misereor rige dativo en el latín eclesiástico; el clásico usaba genitivo)"
+            },
+            "gloss": {
+              "en": "on us",
+              "es": "de nosotros"
+            }
+          }
+        ]
+      },
+      {
+        "speaker": null,
+        "la": "Agnus Dei, qui tollis peccata mundi: miserere nobis.",
+        "en": "Lamb of God, who take away the sins of the world: have mercy on us.",
+        "es": "Cordero de Dios, que quitas los pecados del mundo: ten piedad de nosotros.",
+        "tokens": [
+          {
+            "w": "Agnus",
+            "lemma": "agnus",
+            "pos": "noun",
+            "stress": "Á-gnus",
+            "parse": {
+              "en": "noun, nominative singular, masculine, 2nd declension, of agnus — the nominative is used here to address Christ (instead of the vocative 'agne')",
+              "es": "sustantivo, nominativo singular, masculino, 2ª declinación, de agnus — aquí el nominativo se usa para hablarle a Cristo (en vez del vocativo 'agne')"
+            },
+            "gloss": {
+              "en": "Lamb",
+              "es": "Cordero"
+            }
+          },
+          {
+            "w": "Dei",
+            "lemma": "deus",
+            "pos": "noun",
+            "stress": "Dé-i",
+            "parse": {
+              "en": "noun, genitive singular, masculine, 2nd declension, of deus — genitive: 'of God'",
+              "es": "sustantivo, genitivo singular, masculino, 2ª declinación, de deus — genitivo: 'de Dios'"
+            },
+            "gloss": {
+              "en": "of God",
+              "es": "de Dios"
+            }
+          },
+          {
+            "w": "qui",
+            "lemma": "qui",
+            "pos": "pron",
+            "stress": "qui",
+            "parse": {
+              "en": "relative pronoun, nominative singular, masculine, of qui; refers to 'Agnus' and is the subject of 'tollis'",
+              "es": "pronombre relativo, nominativo singular, masculino, de qui; se refiere a 'Agnus' y es sujeto de 'tollis'"
+            },
+            "gloss": {
+              "en": "who",
+              "es": "que"
+            }
+          },
+          {
+            "w": "tollis",
+            "lemma": "tollo",
+            "pos": "verb",
+            "stress": "tól-lis",
+            "parse": {
+              "en": "verb, 2nd person singular, present indicative active, of tollo (3rd conjugation): you take away",
+              "es": "verbo, 2ª persona singular, presente de indicativo activo, de tollo (3ª conjugación): quitas"
+            },
+            "gloss": {
+              "en": "you take away",
+              "es": "quitas"
+            }
+          },
+          {
+            "w": "peccata",
+            "lemma": "peccatum",
+            "pos": "noun",
+            "stress": "pec-cá-ta",
+            "parse": {
+              "en": "noun, accusative plural, neuter, 2nd declension, of peccatum — accusative plural: direct object of 'tollis'",
+              "es": "sustantivo, acusativo plural, neutro, 2ª declinación, de peccatum — acusativo plural: complemento directo de 'tollis'"
+            },
+            "gloss": {
+              "en": "sins",
+              "es": "pecados"
+            }
+          },
+          {
+            "w": "mundi",
+            "lemma": "mundus",
+            "pos": "noun",
+            "stress": "mún-di",
+            "parse": {
+              "en": "noun, genitive singular, masculine, 2nd declension, of mundus — genitive: 'of the world'",
+              "es": "sustantivo, genitivo singular, masculino, 2ª declinación, de mundus — genitivo: 'del mundo'"
+            },
+            "gloss": {
+              "en": "of the world",
+              "es": "del mundo"
+            }
+          },
+          {
+            "w": "miserere",
+            "lemma": "misereor",
+            "pos": "verb",
+            "stress": "mi-se-ré-re",
+            "parse": {
+              "en": "verb, 2nd person singular, present imperative, of the DEPONENT misereor (2nd conjugation; passive form, active meaning): have mercy!",
+              "es": "verbo, 2ª persona singular, presente de imperativo, del DEPONENTE misereor (2ª conjugación; forma pasiva, sentido activo): ¡ten piedad!"
+            },
+            "gloss": {
+              "en": "have mercy",
+              "es": "ten piedad"
+            }
+          },
+          {
+            "w": "nobis",
+            "lemma": "nos",
+            "pos": "pron",
+            "stress": "nó-bis",
+            "parse": {
+              "en": "personal pronoun, dative plural, 1st person, of nos — dative: 'on us' (misereor takes the dative in Church Latin; classical Latin used the genitive)",
+              "es": "pronombre personal, dativo plural, 1ª persona, de nos — dativo: 'de nosotros' (misereor rige dativo en el latín eclesiástico; el clásico usaba genitivo)"
+            },
+            "gloss": {
+              "en": "on us",
+              "es": "de nosotros"
+            }
+          }
+        ]
+      },
+      {
+        "speaker": null,
+        "la": "Agnus Dei, qui tollis peccata mundi: dona nobis pacem.",
+        "en": "Lamb of God, who take away the sins of the world: grant us peace.",
+        "es": "Cordero de Dios, que quitas los pecados del mundo: danos la paz.",
+        "tokens": [
+          {
+            "w": "Agnus",
+            "lemma": "agnus",
+            "pos": "noun",
+            "stress": "Á-gnus",
+            "parse": {
+              "en": "noun, nominative singular, masculine, 2nd declension, of agnus — the nominative is used here to address Christ (instead of the vocative 'agne')",
+              "es": "sustantivo, nominativo singular, masculino, 2ª declinación, de agnus — aquí el nominativo se usa para hablarle a Cristo (en vez del vocativo 'agne')"
+            },
+            "gloss": {
+              "en": "Lamb",
+              "es": "Cordero"
+            }
+          },
+          {
+            "w": "Dei",
+            "lemma": "deus",
+            "pos": "noun",
+            "stress": "Dé-i",
+            "parse": {
+              "en": "noun, genitive singular, masculine, 2nd declension, of deus — genitive: 'of God'",
+              "es": "sustantivo, genitivo singular, masculino, 2ª declinación, de deus — genitivo: 'de Dios'"
+            },
+            "gloss": {
+              "en": "of God",
+              "es": "de Dios"
+            }
+          },
+          {
+            "w": "qui",
+            "lemma": "qui",
+            "pos": "pron",
+            "stress": "qui",
+            "parse": {
+              "en": "relative pronoun, nominative singular, masculine, of qui; refers to 'Agnus' and is the subject of 'tollis'",
+              "es": "pronombre relativo, nominativo singular, masculino, de qui; se refiere a 'Agnus' y es sujeto de 'tollis'"
+            },
+            "gloss": {
+              "en": "who",
+              "es": "que"
+            }
+          },
+          {
+            "w": "tollis",
+            "lemma": "tollo",
+            "pos": "verb",
+            "stress": "tól-lis",
+            "parse": {
+              "en": "verb, 2nd person singular, present indicative active, of tollo (3rd conjugation): you take away",
+              "es": "verbo, 2ª persona singular, presente de indicativo activo, de tollo (3ª conjugación): quitas"
+            },
+            "gloss": {
+              "en": "you take away",
+              "es": "quitas"
+            }
+          },
+          {
+            "w": "peccata",
+            "lemma": "peccatum",
+            "pos": "noun",
+            "stress": "pec-cá-ta",
+            "parse": {
+              "en": "noun, accusative plural, neuter, 2nd declension, of peccatum — accusative plural: direct object of 'tollis'",
+              "es": "sustantivo, acusativo plural, neutro, 2ª declinación, de peccatum — acusativo plural: complemento directo de 'tollis'"
+            },
+            "gloss": {
+              "en": "sins",
+              "es": "pecados"
+            }
+          },
+          {
+            "w": "mundi",
+            "lemma": "mundus",
+            "pos": "noun",
+            "stress": "mún-di",
+            "parse": {
+              "en": "noun, genitive singular, masculine, 2nd declension, of mundus — genitive: 'of the world'",
+              "es": "sustantivo, genitivo singular, masculino, 2ª declinación, de mundus — genitivo: 'del mundo'"
+            },
+            "gloss": {
+              "en": "of the world",
+              "es": "del mundo"
+            }
+          },
+          {
+            "w": "dona",
+            "lemma": "dono",
+            "pos": "verb",
+            "stress": "dó-na",
+            "parse": {
+              "en": "verb, 2nd person singular, present imperative active, of dono (1st conjugation): grant! give!",
+              "es": "verbo, 2ª persona singular, presente de imperativo activo, de dono (1ª conjugación): ¡danos! ¡concede!"
+            },
+            "gloss": {
+              "en": "grant, give",
+              "es": "da, concede"
+            }
+          },
+          {
+            "w": "nobis",
+            "lemma": "nos",
+            "pos": "pron",
+            "stress": "nó-bis",
+            "parse": {
+              "en": "personal pronoun, dative plural, 1st person, of nos — dative: indirect object, 'to us'",
+              "es": "pronombre personal, dativo plural, 1ª persona, de nos — dativo: complemento indirecto, 'a nosotros'"
+            },
+            "gloss": {
+              "en": "to us",
+              "es": "nos"
+            }
+          },
+          {
+            "w": "pacem",
+            "lemma": "pax",
+            "pos": "noun",
+            "stress": "pá-cem",
+            "parse": {
+              "en": "noun, accusative singular, feminine, 3rd declension, of pax — accusative: direct object of 'dona'",
+              "es": "sustantivo, acusativo singular, femenino, 3ª declinación, de pax — acusativo: complemento directo de 'dona'"
+            },
+            "gloss": {
+              "en": "peace",
+              "es": "paz"
+            }
+          }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "en": "'Miserere' looks like an infinitive but is an imperative ('have mercy!') of the deponent verb misereor: passive endings, active meaning.",
+        "es": "'Miserere' parece un infinitivo pero es un imperativo ('¡ten piedad!') del verbo deponente misereor: terminaciones pasivas, sentido activo."
+      },
+      {
+        "en": "'Qui tollis' = 'who take away': the relative pronoun takes the person of whoever it refers to — here 'you' (the Lamb), so the verb is 2nd person.",
+        "es": "'Qui tollis' = 'que quitas': el verbo va en la persona del antecedente — aquí 'tú' (el Cordero), por eso está en 2ª persona."
+      },
+      {
+        "en": "'Agnus' is a nominative used in direct address; the true vocative 'agne' is not used in this prayer.",
+        "es": "'Agnus' es un nominativo usado para hablarle a alguien; el vocativo propio 'agne' no se usa en esta oración."
+      }
+    ]
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "id": "vowels",
+    "title": { "en": "Vowels: pure, like Spanish", "es": "Vocales: puras, como en español" },
+    "rule": { "en": "a, e, i, o, u sound as in Spanish, short and clean; y = i; two vowels side by side keep two syllables.", "es": "a, e, i, o, u suenan como en español, limpias; y = i; dos vocales juntas forman dos sílabas." },
+    "spanish_trap": { "en": "Don't merge vowels into one syllable: Dei = DE-i (two beats), not like Spanish \"rey\"; tuo = TU-o.", "es": "No juntes vocales en una sílaba: Dei = DE-i (dos golpes), no como \"rey\"; tuo = TU-o." },
+    "examples": [
+      { "la": "Pater", "stress": "Pá-ter", "meaning": { "en": "Father", "es": "Padre" } },
+      { "la": "Amen", "stress": "Á-men", "meaning": { "en": "amen, so be it", "es": "amén, así sea" } },
+      { "la": "Dei", "stress": "Dé-i", "meaning": { "en": "of God", "es": "de Dios" } },
+      { "la": "nobis", "stress": "nó-bis", "meaning": { "en": "for us, to us", "es": "por nosotros, a nosotros" } },
+      { "la": "tuum", "stress": "tú-um", "meaning": { "en": "your (yours, of one person)", "es": "tu, tuyo" } },
+      { "la": "Kyrie", "stress": "Ký-ri-e", "meaning": { "en": "Lord (Greek)", "es": "Señor (griego)" } }
+    ],
+    "minimal_pair": null
+  },
+  {
+    "id": "ae-oe",
+    "title": { "en": "ae and oe = e", "es": "ae y oe = e" },
+    "rule": { "en": "The pairs ae and oe (also written æ, œ) are one sound: a plain e.", "es": "Las parejas ae y oe (también æ, œ) son un solo sonido: una e." },
+    "spanish_trap": { "en": "Don't split them like Spanish \"caer\" (ca-er): caelum = CHE-lum.", "es": "No las separes como en \"caer\" (ca-er): caelum = CHE-lum." },
+    "examples": [
+      { "la": "caelum", "stress": "cáe-lum", "meaning": { "en": "heaven, sky", "es": "cielo" } },
+      { "la": "caelis", "stress": "cáe-lis", "meaning": { "en": "(in) the heavens", "es": "(en) los cielos" } },
+      { "la": "saecula", "stress": "sáe-cu-la", "meaning": { "en": "ages", "es": "siglos" } },
+      { "la": "Mariae", "stress": "Ma-rí-ae", "meaning": { "en": "of Mary", "es": "de María" } },
+      { "la": "coelum", "stress": "cóe-lum", "meaning": { "en": "heaven (older spelling)", "es": "cielo (grafía antigua)" } }
+    ],
+    "minimal_pair": null
+  },
+  {
+    "id": "c",
+    "title": { "en": "c: soft \"ch\" or hard \"k\"", "es": "c: suave \"ch\" o dura \"k\"" },
+    "rule": { "en": "c before e, i, y, ae, oe = \"ch\" as in English \"church\"; everywhere else c = k.", "es": "c ante e, i, y, ae, oe = \"ch\" (como en \"chico\"); en los demás casos c = k." },
+    "spanish_trap": { "en": "Your Spanish c before e/i (cielo, cena) is /θ/ or /s/. In Latin it is always \"ch\": pacem = PA-chem.", "es": "Tu c española ante e/i (cielo, cena) suena /θ/ o /s/. En latín es siempre \"ch\": pacem = PA-chem." },
+    "examples": [
+      { "la": "pacem", "stress": "pá-cem", "meaning": { "en": "peace (object)", "es": "paz (complemento)" } },
+      { "la": "caelis", "stress": "cáe-lis", "meaning": { "en": "(in) the heavens", "es": "(en) los cielos" } },
+      { "la": "principio", "stress": "prin-cí-pi-o", "meaning": { "en": "(in the) beginning", "es": "(en el) principio" } },
+      { "la": "sicut", "stress": "sí-cut", "meaning": { "en": "as, just as", "es": "como, así como" } },
+      { "la": "tecum", "stress": "té-cum", "meaning": { "en": "with you", "es": "contigo" } }
+    ],
+    "minimal_pair": null
+  },
+  {
+    "id": "g",
+    "title": { "en": "g: soft \"j\" or hard \"g\"", "es": "g: suave (\"dy\") o dura" },
+    "rule": { "en": "g before e, i, y, ae, oe = English \"j\" (/dʒ/); everywhere else g is hard, as in \"go\".", "es": "g ante e, i, y, ae, oe = la \"j\" inglesa (/dʒ/, como \"yo\" enfático); en los demás casos g es dura, como en \"gato\"." },
+    "spanish_trap": { "en": "Not the Spanish g of \"gente\" (/x/): genitum = DJE-ni-tum.", "es": "No es la g de \"gente\" (/x/): genitum = DYE-ni-tum." },
+    "examples": [
+      { "la": "genitum", "stress": "gé-ni-tum", "meaning": { "en": "begotten", "es": "engendrado" } },
+      { "la": "Virgine", "stress": "Vír-gi-ne", "meaning": { "en": "(from the) Virgin", "es": "(de la) Virgen" } },
+      { "la": "Angelus", "stress": "Án-ge-lus", "meaning": { "en": "angel", "es": "ángel" } },
+      { "la": "Regina", "stress": "Re-gí-na", "meaning": { "en": "Queen", "es": "Reina" } },
+      { "la": "Gloria", "stress": "Gló-ri-a", "meaning": { "en": "glory", "es": "gloria" } },
+      { "la": "agamus", "stress": "a-gá-mus", "meaning": { "en": "let us give (thanks)", "es": "demos (gracias)" } }
+    ],
+    "minimal_pair": null
+  },
+  {
+    "id": "sc",
+    "title": { "en": "sc before e/i = \"sh\"", "es": "sc ante e/i = \"sh\"" },
+    "rule": { "en": "sc before e, i, y, ae, oe = \"sh\"; before a, o, u it stays \"sk\" (vobiscum).", "es": "sc ante e, i, y, ae, oe = \"sh\"; ante a, o, u sigue siendo \"sk\" (vobiscum)." },
+    "spanish_trap": { "en": "Not \"s + s\" as in Spanish \"ascensor\": suscipiat = su-SHI-pi-at.", "es": "No es \"s + s\" como en \"ascensor\": suscipiat = su-SHI-pi-at." },
+    "examples": [
+      { "la": "suscipiat", "stress": "sus-cí-pi-at", "meaning": { "en": "may (he) receive", "es": "reciba" } },
+      { "la": "suscipe", "stress": "sús-ci-pe", "meaning": { "en": "receive!", "es": "¡recibe!" } },
+      { "la": "descendit", "stress": "des-cén-dit", "meaning": { "en": "he came down", "es": "descendió" } },
+      { "la": "ascendit", "stress": "as-cén-dit", "meaning": { "en": "he went up", "es": "subió" } },
+      { "la": "vobiscum", "stress": "vo-bís-cum", "meaning": { "en": "with you (all)", "es": "con vosotros" } }
+    ],
+    "minimal_pair": null
+  },
+  {
+    "id": "gn",
+    "title": { "en": "gn = ñ", "es": "gn = ñ" },
+    "rule": { "en": "gn sounds like Spanish ñ, held a little longer: Agnus = AÑ-ñus.", "es": "gn suena como la ñ, un poco alargada: Agnus = AÑ-ñus." },
+    "spanish_trap": { "en": "Not g + n as in Spanish \"ignorar\": regnum = REÑ-ñum. This one is easy for you.", "es": "No es g + n como en \"ignorar\": regnum = REÑ-ñum. Este es fácil para ti." },
+    "examples": [
+      { "la": "Agnus", "stress": "Ág-nus", "meaning": { "en": "Lamb", "es": "Cordero" } },
+      { "la": "regnum", "stress": "rég-num", "meaning": { "en": "kingdom", "es": "reino" } },
+      { "la": "dignum", "stress": "díg-num", "meaning": { "en": "worthy, fitting", "es": "digno" } },
+      { "la": "signum", "stress": "síg-num", "meaning": { "en": "sign", "es": "señal" } },
+      { "la": "magnam", "stress": "mág-nam", "meaning": { "en": "great (object)", "es": "grande (complemento)" } }
+    ],
+    "minimal_pair": null
+  },
+  {
+    "id": "ti",
+    "title": { "en": "ti + vowel = \"tsi\"", "es": "ti + vocal = \"tsi\"" },
+    "rule": { "en": "ti before a vowel = \"tsi\", except after s, t or x, where it stays \"ti\" (hostia).", "es": "ti ante vocal = \"tsi\", salvo después de s, t o x, donde sigue siendo \"ti\" (hostia)." },
+    "spanish_trap": { "en": "Not the Spanish \"-cia\" of \"gracia\": gratia = GRA-tsi-a.", "es": "No es el \"-cia\" de \"gracia\": gratia = GRA-tsi-a." },
+    "examples": [
+      { "la": "gratia", "stress": "grá-ti-a", "meaning": { "en": "grace", "es": "gracia" } },
+      { "la": "gratias", "stress": "grá-ti-as", "meaning": { "en": "thanks", "es": "gracias" } },
+      { "la": "tentationem", "stress": "ten-ta-ti-ó-nem", "meaning": { "en": "temptation (object)", "es": "tentación (complemento)" } },
+      { "la": "laetitia", "stress": "lae-tí-ti-a", "meaning": { "en": "joy", "es": "alegría" } },
+      { "la": "hostiam", "stress": "hós-ti-am", "meaning": { "en": "victim, host (object)", "es": "hostia, víctima (complemento)" } }
+    ],
+    "minimal_pair": null
+  },
+  {
+    "id": "h",
+    "title": { "en": "h: silent (except mihi, nihil)", "es": "h: muda (salvo mihi, nihil)" },
+    "rule": { "en": "h is silent, as in Spanish, except in mihi and nihil, where it sounds like k.", "es": "La h es muda, como en español, salvo en mihi y nihil, donde suena como k." },
+    "spanish_trap": { "en": "Easy, but don't drop it in mihi = MI-ki and nihil = NI-kil.", "es": "Fácil, pero no la omitas en mihi = MI-ki y nihil = NI-kil." },
+    "examples": [
+      { "la": "hora", "stress": "hó-ra", "meaning": { "en": "hour", "es": "hora" } },
+      { "la": "hodie", "stress": "hó-di-e", "meaning": { "en": "today", "es": "hoy" } },
+      { "la": "Hosanna", "stress": "Ho-sán-na", "meaning": { "en": "Hosanna", "es": "Hosanna" } },
+      { "la": "habemus", "stress": "ha-bé-mus", "meaning": { "en": "we have", "es": "tenemos" } },
+      { "la": "mihi", "stress": "mí-hi", "meaning": { "en": "to me", "es": "a mí" } },
+      { "la": "nihil", "stress": "ní-hil", "meaning": { "en": "nothing", "es": "nada" } }
+    ],
+    "minimal_pair": null
+  },
+  {
+    "id": "j-i",
+    "title": { "en": "i or j before a vowel = \"y\"", "es": "i o j ante vocal = \"y\"" },
+    "rule": { "en": "At the start of a word or between vowels, i (or j) before a vowel is a consonant \"y\": Iesus = YE-sus.", "es": "Al inicio de palabra o entre vocales, la i (o j) ante vocal es una \"y\": Iesus = YE-sus." },
+    "spanish_trap": { "en": "Never the Spanish jota: Iesus is not \"Jesús\" with /x/.", "es": "Nunca la jota española: Iesus no es \"Jesús\" con /x/." },
+    "examples": [
+      { "la": "Iesus", "stress": "Ié-sus", "meaning": { "en": "Jesus", "es": "Jesús" } },
+      { "la": "iustum", "stress": "iús-tum", "meaning": { "en": "right, just", "es": "justo" } },
+      { "la": "Ioannes", "stress": "Io-án-nes", "meaning": { "en": "John", "es": "Juan" } },
+      { "la": "cuius", "stress": "cú-ius", "meaning": { "en": "whose, of which", "es": "cuyo, del cual" } },
+      { "la": "alleluia", "stress": "al-le-lú-ia", "meaning": { "en": "alleluia", "es": "aleluya" } }
+    ],
+    "minimal_pair": null
+  },
+  {
+    "id": "x",
+    "title": { "en": "x = \"ks\"; xc before e/i = \"ksh\"", "es": "x = \"ks\"; xc ante e/i = \"ksh\"" },
+    "rule": { "en": "x = \"ks\"; xc before e or i = \"k + sh\" (excelsis = ek-SHEL-sis); in exs the s is already in the x.", "es": "x = \"ks\"; xc ante e o i = \"k + sh\" (excelsis = ek-SHEL-sis); en exs la s ya va dentro de la x." },
+    "spanish_trap": { "en": "Not like Spanish \"excelente\" (ks + s/θ): say ek-SHEL-sis.", "es": "No como \"excelente\" (ks + s/θ): di ek-SHEL-sis." },
+    "examples": [
+      { "la": "excelsis", "stress": "ex-cél-sis", "meaning": { "en": "(in the) highest", "es": "(en las) alturas" } },
+      { "la": "exsultate", "stress": "ex-sul-tá-te", "meaning": { "en": "rejoice! (all of you)", "es": "¡alegraos!" } },
+      { "la": "pax", "stress": "páx", "meaning": { "en": "peace", "es": "paz" } },
+      { "la": "Rex", "stress": "Réx", "meaning": { "en": "King", "es": "Rey" } },
+      { "la": "dixit", "stress": "dí-xit", "meaning": { "en": "he said", "es": "dijo" } }
+    ],
+    "minimal_pair": null
+  },
+  {
+    "id": "z",
+    "title": { "en": "z = \"dz\"", "es": "z = \"dz\"" },
+    "rule": { "en": "z sounds \"dz\", like the ds in English \"adze\".", "es": "La z suena \"dz\", una d seguida de una z sonora." },
+    "spanish_trap": { "en": "Not the Spanish z (/θ/ or /s/): zelus = DZE-lus.", "es": "No es la z española (/θ/ o /s/): zelus = DZE-lus." },
+    "examples": [
+      { "la": "zelus", "stress": "zé-lus", "meaning": { "en": "zeal", "es": "celo" } },
+      { "la": "Lazarus", "stress": "Lá-za-rus", "meaning": { "en": "Lazarus", "es": "Lázaro" } },
+      { "la": "Nazarenus", "stress": "Na-za-ré-nus", "meaning": { "en": "of Nazareth, Nazarene", "es": "Nazareno" } },
+      { "la": "Zacharias", "stress": "Za-cha-rí-as", "meaning": { "en": "Zechariah", "es": "Zacarías" } },
+      { "la": "baptizo", "stress": "bap-tí-zo", "meaning": { "en": "I baptize", "es": "bautizo" } }
+    ],
+    "minimal_pair": null
+  },
+  {
+    "id": "qu-gu",
+    "title": { "en": "qu and gu: say the u", "es": "qu y gu: la u suena" },
+    "rule": { "en": "qu = \"kw\" and ngu + vowel = \"ngw\", also before e and i: qui = \"kwi\", sanguis = SAN-gwis.", "es": "qu = \"ku\" y ngu + vocal = \"ngu\" con u sonora, también ante e, i: qui = \"kui\", sanguis = SAN-guis." },
+    "spanish_trap": { "en": "In Spanish \"que, qui, guerra\" the u is silent. In Latin you always hear it.", "es": "En \"que, qui, guerra\" la u es muda. En latín siempre se oye." },
+    "examples": [
+      { "la": "qui", "stress": "quí", "meaning": { "en": "who", "es": "que, quien" } },
+      { "la": "quia", "stress": "quí-a", "meaning": { "en": "because", "es": "porque" } },
+      { "la": "quotidianum", "stress": "quo-ti-di-á-num", "meaning": { "en": "daily", "es": "cotidiano" } },
+      { "la": "sanguis", "stress": "sán-guis", "meaning": { "en": "blood", "es": "sangre" } },
+      { "la": "lingua", "stress": "lín-gua", "meaning": { "en": "tongue, language", "es": "lengua" } }
+    ],
+    "minimal_pair": null
+  },
+  {
+    "id": "double",
+    "title": { "en": "Double consonants: hold them", "es": "Consonantes dobles: alárgalas" },
+    "rule": { "en": "A doubled consonant is held longer, split over two syllables: ter-ra, Ho-san-na; cc before e/i = \"t-ch\" (ecce = ET-che).", "es": "Una consonante doble se alarga, repartida en dos sílabas: ter-ra, Ho-san-na; cc ante e/i = \"t-ch\" (ecce = ET-che)." },
+    "spanish_trap": { "en": "Spanish has no long consonants except rr. Ecce is not \"ece\": pause on the double sound.", "es": "El español no tiene consonantes largas salvo rr. Ecce no es \"ece\": detente en el sonido doble." },
+    "examples": [
+      { "la": "ecce", "stress": "éc-ce", "meaning": { "en": "behold", "es": "he aquí" } },
+      { "la": "peccata", "stress": "pec-cá-ta", "meaning": { "en": "sins", "es": "pecados" } },
+      { "la": "terra", "stress": "tér-ra", "meaning": { "en": "earth", "es": "tierra" } },
+      { "la": "Hosanna", "stress": "Ho-sán-na", "meaning": { "en": "Hosanna", "es": "Hosanna" } },
+      { "la": "tollis", "stress": "tól-lis", "meaning": { "en": "you take away", "es": "quitas" } }
+    ],
+    "minimal_pair": [
+      { "la": "ferrum", "stress": "fér-rum", "meaning": { "en": "iron", "es": "hierro" } },
+      { "la": "ferum", "stress": "fé-rum", "meaning": { "en": "wild (neuter)", "es": "salvaje (neutro)" } }
+    ]
+  },
+  {
+    "id": "v-b",
+    "title": { "en": "v is not b", "es": "La v no es b" },
+    "rule": { "en": "v is a real v: upper teeth touch the lower lip; b is made with both lips.", "es": "La v es labiodental: los dientes de arriba tocan el labio inferior; la b se hace con los dos labios." },
+    "spanish_trap": { "en": "Spanish says b and v the same. In Latin vos (you) and bos (ox) are different words.", "es": "En español b y v suenan igual. En latín vos (vosotros) y bos (buey) son palabras distintas." },
+    "examples": [
+      { "la": "Ave", "stress": "Á-ve", "meaning": { "en": "Hail", "es": "Salve, Dios te salve" } },
+      { "la": "vobiscum", "stress": "vo-bís-cum", "meaning": { "en": "with you (all)", "es": "con vosotros" } },
+      { "la": "venit", "stress": "vé-nit", "meaning": { "en": "comes", "es": "viene" } },
+      { "la": "voluntas", "stress": "vo-lún-tas", "meaning": { "en": "will", "es": "voluntad" } },
+      { "la": "benedicta", "stress": "be-ne-díc-ta", "meaning": { "en": "blessed (fem.)", "es": "bendita" } }
+    ],
+    "minimal_pair": [
+      { "la": "vos", "stress": "vós", "meaning": { "en": "you (plural)", "es": "vosotros" } },
+      { "la": "bos", "stress": "bós", "meaning": { "en": "ox", "es": "buey" } }
+    ]
+  },
+  {
+    "id": "ch-ph-th",
+    "title": { "en": "ch, ph, th (and k)", "es": "ch, ph, th (y k)" },
+    "rule": { "en": "In Greek words ch = k, ph = f, th = t; k = k.", "es": "En palabras griegas ch = k, ph = f, th = t; k = k." },
+    "spanish_trap": { "en": "Never the Spanish ch of \"chico\": Christe = KRIS-te.", "es": "Nunca la ch de \"chico\": Christe = KRIS-te." },
+    "examples": [
+      { "la": "Christe", "stress": "Chrís-te", "meaning": { "en": "O Christ", "es": "Oh Cristo" } },
+      { "la": "Kyrie", "stress": "Ký-ri-e", "meaning": { "en": "O Lord", "es": "Oh Señor" } },
+      { "la": "Prophetas", "stress": "Pro-phé-tas", "meaning": { "en": "the prophets (object)", "es": "los profetas (complemento)" } },
+      { "la": "Catholicam", "stress": "Ca-thó-li-cam", "meaning": { "en": "catholic, universal (object)", "es": "católica (complemento)" } },
+      { "la": "Sabaoth", "stress": "Sá-ba-oth", "meaning": { "en": "of hosts (armies)", "es": "de los ejércitos" } }
+    ],
+    "minimal_pair": null
+  },
+  {
+    "id": "stress",
+    "title": { "en": "Stress: follow the accent mark", "es": "Acento: sigue la tilde" },
+    "rule": { "en": "Two-syllable words stress the first; longer words stress the second-to-last if it is long, else the third-to-last. Prayer books print the accent: Dóminus.", "es": "Las palabras de dos sílabas llevan el acento en la primera; las más largas en la penúltima si es larga, si no en la antepenúltima. Los libros lo marcan: Dóminus." },
+    "spanish_trap": { "en": "Don't copy the Spanish stress of a look-alike word, and watch it move as the word grows: Spíritus but Spirítui.", "es": "No copies el acento de la palabra española parecida, y fíjate cómo se mueve al crecer la palabra: Spíritus pero Spirítui." },
+    "examples": [
+      { "la": "Dominus", "stress": "Dó-mi-nus", "meaning": { "en": "Lord", "es": "Señor" } },
+      { "la": "Spiritus", "stress": "Spí-ri-tus", "meaning": { "en": "Spirit", "es": "Espíritu" } },
+      { "la": "Spiritui", "stress": "Spi-rí-tu-i", "meaning": { "en": "to the Spirit", "es": "al Espíritu" } },
+      { "la": "peccatoribus", "stress": "pec-ca-tó-ri-bus", "meaning": { "en": "for sinners", "es": "por los pecadores" } },
+      { "la": "benedicta", "stress": "be-ne-díc-ta", "meaning": { "en": "blessed (fem.)", "es": "bendita" } },
+      { "la": "Maria", "stress": "Ma-rí-a", "meaning": { "en": "Mary", "es": "María" } }
+    ],
+    "minimal_pair": null
+  }
+]

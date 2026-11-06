@@ -1,0 +1,1136 @@
+[
+  {
+    "lemma": "in",
+    "dict": "in, prep. + abl. (in, on) / + acc. (into, onto)",
+    "pos": "prep",
+    "decl": null,
+    "gloss": {
+      "en": "in, on; (+ acc.) into",
+      "es": "en; (+ acus.) hacia"
+    },
+    "stress": "in",
+    "first": "signum",
+    "cognate_es": "en",
+    "trap": "Meaning depends on the case after it: ablative = where (in), accusative = where to (into)."
+  },
+  {
+    "lemma": "nomen",
+    "dict": "nomen, nominis n.",
+    "pos": "noun",
+    "decl": "3",
+    "gloss": {
+      "en": "name",
+      "es": "nombre"
+    },
+    "stress": "nó-men",
+    "first": "signum",
+    "cognate_es": "nombre",
+    "trap": null
+  },
+  {
+    "lemma": "pater",
+    "dict": "pater, patris m.",
+    "pos": "noun",
+    "decl": "3",
+    "gloss": {
+      "en": "father",
+      "es": "padre"
+    },
+    "stress": "pá-ter",
+    "first": "signum",
+    "cognate_es": "padre",
+    "trap": null
+  },
+  {
+    "lemma": "et",
+    "dict": "et, conj.",
+    "pos": "conj",
+    "decl": null,
+    "gloss": {
+      "en": "and; also, even",
+      "es": "y; también"
+    },
+    "stress": "et",
+    "first": "signum",
+    "cognate_es": "y (cf. 'etc.')",
+    "trap": null
+  },
+  {
+    "lemma": "filius",
+    "dict": "filius, filii m.",
+    "pos": "noun",
+    "decl": "2",
+    "gloss": {
+      "en": "son",
+      "es": "hijo"
+    },
+    "stress": "fí-li-us",
+    "first": "signum",
+    "cognate_es": "filial, hijo",
+    "trap": null
+  },
+  {
+    "lemma": "spiritus",
+    "dict": "spiritus, spiritus m.",
+    "pos": "noun",
+    "decl": "4",
+    "gloss": {
+      "en": "spirit; breath",
+      "es": "espíritu; aliento"
+    },
+    "stress": "spí-ri-tus",
+    "first": "signum",
+    "cognate_es": "espíritu",
+    "trap": null
+  },
+  {
+    "lemma": "sanctus",
+    "dict": "sanctus, -a, -um",
+    "pos": "adj",
+    "decl": "1-2",
+    "gloss": {
+      "en": "holy; saint",
+      "es": "santo"
+    },
+    "stress": "sán-ctus",
+    "first": "signum",
+    "cognate_es": "santo",
+    "trap": null
+  },
+  {
+    "lemma": "amen",
+    "dict": "amen, indecl. (Hebrew)",
+    "pos": "particle",
+    "decl": null,
+    "gloss": {
+      "en": "amen, truly, so be it",
+      "es": "amén, en verdad, así sea"
+    },
+    "stress": "á-men",
+    "first": "signum",
+    "cognate_es": "amén",
+    "trap": null
+  },
+  {
+    "lemma": "gloria",
+    "dict": "gloria, gloriae f.",
+    "pos": "noun",
+    "decl": "1",
+    "gloss": {
+      "en": "glory",
+      "es": "gloria"
+    },
+    "stress": "gló-ri-a",
+    "first": "gloria-patri",
+    "cognate_es": "gloria",
+    "trap": null
+  },
+  {
+    "lemma": "sicut",
+    "dict": "sicut, adv.",
+    "pos": "adv",
+    "decl": null,
+    "gloss": {
+      "en": "just as, as",
+      "es": "así como, como"
+    },
+    "stress": "sí-cut",
+    "first": "gloria-patri",
+    "cognate_es": null,
+    "trap": null
+  },
+  {
+    "lemma": "sum",
+    "dict": "sum, esse, fui, futurus (irreg.)",
+    "pos": "verb",
+    "decl": "irreg.",
+    "gloss": {
+      "en": "to be",
+      "es": "ser, estar"
+    },
+    "stress": "sum",
+    "first": "gloria-patri",
+    "cognate_es": "ser (soy, es)",
+    "trap": "Latin 'es' = 'you are' (2nd person), not Spanish 'es' (he/she is); 'he/she is' = est."
+  },
+  {
+    "lemma": "principium",
+    "dict": "principium, principii n.",
+    "pos": "noun",
+    "decl": "2",
+    "gloss": {
+      "en": "beginning",
+      "es": "principio"
+    },
+    "stress": "prin-cí-pi-um",
+    "first": "gloria-patri",
+    "cognate_es": "principio",
+    "trap": null
+  },
+  {
+    "lemma": "nunc",
+    "dict": "nunc, adv.",
+    "pos": "adv",
+    "decl": null,
+    "gloss": {
+      "en": "now",
+      "es": "ahora"
+    },
+    "stress": "nunc",
+    "first": "gloria-patri",
+    "cognate_es": null,
+    "trap": "False friend: 'nunc' means NOW, not Spanish 'nunca' (never)."
+  },
+  {
+    "lemma": "semper",
+    "dict": "semper, adv.",
+    "pos": "adv",
+    "decl": null,
+    "gloss": {
+      "en": "always",
+      "es": "siempre"
+    },
+    "stress": "sém-per",
+    "first": "gloria-patri",
+    "cognate_es": "siempre",
+    "trap": null
+  },
+  {
+    "lemma": "saeculum",
+    "dict": "saeculum, saeculi n.",
+    "pos": "noun",
+    "decl": "2",
+    "gloss": {
+      "en": "age, generation; the world",
+      "es": "siglo, época; el mundo"
+    },
+    "stress": "sáe-cu-lum",
+    "first": "gloria-patri",
+    "cognate_es": "siglo, secular",
+    "trap": "'In saecula saeculorum' is an idiom for 'forever', not literal centuries."
+  },
+  {
+    "lemma": "ave",
+    "dict": "ave, interj. (pl. avete; from aveo, avere)",
+    "pos": "interjection",
+    "decl": null,
+    "gloss": {
+      "en": "hail!",
+      "es": "¡salve!, Dios te salve"
+    },
+    "stress": "á-ve",
+    "first": "ave-maria",
+    "cognate_es": null,
+    "trap": "False friend: not Spanish 'ave' (bird); it is a greeting."
+  },
+  {
+    "lemma": "Maria",
+    "dict": "Maria, Mariae f.",
+    "pos": "noun",
+    "decl": "1",
+    "gloss": {
+      "en": "Mary",
+      "es": "María"
+    },
+    "stress": "Ma-rí-a",
+    "first": "ave-maria",
+    "cognate_es": "María",
+    "trap": null
+  },
+  {
+    "lemma": "gratia",
+    "dict": "gratia, gratiae f.",
+    "pos": "noun",
+    "decl": "1",
+    "gloss": {
+      "en": "grace; favor; (pl.) thanks",
+      "es": "gracia; favor; (pl.) gracias"
+    },
+    "stress": "grá-ti-a",
+    "first": "ave-maria",
+    "cognate_es": "gracia",
+    "trap": "Pronunciation: 'ti' before a vowel sounds 'tsi': GRÁ-tsi-a."
+  },
+  {
+    "lemma": "plenus",
+    "dict": "plenus, -a, -um",
+    "pos": "adj",
+    "decl": "1-2",
+    "gloss": {
+      "en": "full",
+      "es": "lleno"
+    },
+    "stress": "plé-nus",
+    "first": "ave-maria",
+    "cognate_es": "pleno, lleno",
+    "trap": null
+  },
+  {
+    "lemma": "dominus",
+    "dict": "dominus, domini m.",
+    "pos": "noun",
+    "decl": "2",
+    "gloss": {
+      "en": "lord, master",
+      "es": "señor, dueño"
+    },
+    "stress": "dó-mi-nus",
+    "first": "ave-maria",
+    "cognate_es": "domingo (día del Señor), dueño",
+    "trap": "'Dominus' is 'Lord', not 'God' (Deus) — Spanish 'Señor'."
+  },
+  {
+    "lemma": "tu",
+    "dict": "tu, tui (pers. pron., 2nd sing.: tu, tui, tibi, te, te)",
+    "pos": "pron",
+    "decl": null,
+    "gloss": {
+      "en": "you (singular)",
+      "es": "tú"
+    },
+    "stress": "tu",
+    "first": "ave-maria",
+    "cognate_es": "tú, te",
+    "trap": null
+  },
+  {
+    "lemma": "benedico",
+    "dict": "benedico, benedicere, benedixi, benedictum",
+    "pos": "verb",
+    "decl": "conj 3",
+    "gloss": {
+      "en": "to bless",
+      "es": "bendecir"
+    },
+    "stress": "be-ne-dí-co",
+    "first": "ave-maria",
+    "cognate_es": "bendecir, bendito",
+    "trap": null
+  },
+  {
+    "lemma": "mulier",
+    "dict": "mulier, mulieris f.",
+    "pos": "noun",
+    "decl": "3",
+    "gloss": {
+      "en": "woman",
+      "es": "mujer"
+    },
+    "stress": "mú-li-er",
+    "first": "ave-maria",
+    "cognate_es": "mujer",
+    "trap": null
+  },
+  {
+    "lemma": "fructus",
+    "dict": "fructus, fructus m.",
+    "pos": "noun",
+    "decl": "4",
+    "gloss": {
+      "en": "fruit",
+      "es": "fruto"
+    },
+    "stress": "frú-ctus",
+    "first": "ave-maria",
+    "cognate_es": "fruto",
+    "trap": null
+  },
+  {
+    "lemma": "venter",
+    "dict": "venter, ventris m.",
+    "pos": "noun",
+    "decl": "3",
+    "gloss": {
+      "en": "womb; belly",
+      "es": "vientre"
+    },
+    "stress": "vén-ter",
+    "first": "ave-maria",
+    "cognate_es": "vientre",
+    "trap": null
+  },
+  {
+    "lemma": "tuus",
+    "dict": "tuus, -a, -um",
+    "pos": "adj",
+    "decl": "1-2",
+    "gloss": {
+      "en": "your, yours (one person)",
+      "es": "tu, tuyo"
+    },
+    "stress": "tú-us",
+    "first": "ave-maria",
+    "cognate_es": "tuyo",
+    "trap": null
+  },
+  {
+    "lemma": "Iesus",
+    "dict": "Iesus, Iesu m. (irreg.: dat. Iesu, acc. Iesum, abl. Iesu)",
+    "pos": "noun",
+    "decl": "irreg.",
+    "gloss": {
+      "en": "Jesus",
+      "es": "Jesús"
+    },
+    "stress": "Ié-sus",
+    "first": "ave-maria",
+    "cognate_es": "Jesús",
+    "trap": "Pronunciation: initial I is a consonant 'y': YÉ-sus."
+  },
+  {
+    "lemma": "mater",
+    "dict": "mater, matris f.",
+    "pos": "noun",
+    "decl": "3",
+    "gloss": {
+      "en": "mother",
+      "es": "madre"
+    },
+    "stress": "má-ter",
+    "first": "ave-maria",
+    "cognate_es": "madre",
+    "trap": null
+  },
+  {
+    "lemma": "deus",
+    "dict": "deus, dei m.",
+    "pos": "noun",
+    "decl": "2",
+    "gloss": {
+      "en": "God, god",
+      "es": "Dios, dios"
+    },
+    "stress": "dé-us",
+    "first": "ave-maria",
+    "cognate_es": "Dios",
+    "trap": null
+  },
+  {
+    "lemma": "oro",
+    "dict": "oro, orare, oravi, oratum",
+    "pos": "verb",
+    "decl": "conj 1",
+    "gloss": {
+      "en": "to pray, beg",
+      "es": "orar, rogar"
+    },
+    "stress": "ó-ro",
+    "first": "ave-maria",
+    "cognate_es": "orar",
+    "trap": "'ora' (pray!) is not 'hora' (hour) nor Spanish 'ahora' (now)."
+  },
+  {
+    "lemma": "pro",
+    "dict": "pro, prep. + abl.",
+    "pos": "prep",
+    "decl": null,
+    "gloss": {
+      "en": "for, on behalf of; before",
+      "es": "por, en favor de; delante de"
+    },
+    "stress": "pro",
+    "first": "ave-maria",
+    "cognate_es": "pro (en pro de)",
+    "trap": null
+  },
+  {
+    "lemma": "nos",
+    "dict": "nos, nostrum/nostri (pers. pron., 1st pl.: nos, nobis, nos, nobis)",
+    "pos": "pron",
+    "decl": null,
+    "gloss": {
+      "en": "we, us",
+      "es": "nosotros, nos"
+    },
+    "stress": "nos",
+    "first": "ave-maria",
+    "cognate_es": "nos, nosotros",
+    "trap": null
+  },
+  {
+    "lemma": "peccator",
+    "dict": "peccator, peccatoris m.",
+    "pos": "noun",
+    "decl": "3",
+    "gloss": {
+      "en": "sinner",
+      "es": "pecador"
+    },
+    "stress": "pec-cá-tor",
+    "first": "ave-maria",
+    "cognate_es": "pecador",
+    "trap": null
+  },
+  {
+    "lemma": "hora",
+    "dict": "hora, horae f.",
+    "pos": "noun",
+    "decl": "1",
+    "gloss": {
+      "en": "hour",
+      "es": "hora"
+    },
+    "stress": "hó-ra",
+    "first": "ave-maria",
+    "cognate_es": "hora",
+    "trap": "Do not confuse with 'ora' (pray!); the h is silent in Church Latin."
+  },
+  {
+    "lemma": "mors",
+    "dict": "mors, mortis f.",
+    "pos": "noun",
+    "decl": "3",
+    "gloss": {
+      "en": "death",
+      "es": "muerte"
+    },
+    "stress": "mors",
+    "first": "ave-maria",
+    "cognate_es": "muerte, mortal",
+    "trap": null
+  },
+  {
+    "lemma": "noster",
+    "dict": "noster, nostra, nostrum",
+    "pos": "adj",
+    "decl": "1-2",
+    "gloss": {
+      "en": "our, ours",
+      "es": "nuestro"
+    },
+    "stress": "nó-ster",
+    "first": "ave-maria",
+    "cognate_es": "nuestro",
+    "trap": null
+  },
+  {
+    "lemma": "qui",
+    "dict": "qui, quae, quod (rel. pron.)",
+    "pos": "pron",
+    "decl": null,
+    "gloss": {
+      "en": "who, which, that",
+      "es": "que, quien, el cual"
+    },
+    "stress": "qui",
+    "first": "pater-noster",
+    "cognate_es": "que, quien",
+    "trap": "Pronunciation: 'qui' sounds 'kwi', not Spanish 'ki'."
+  },
+  {
+    "lemma": "caelum",
+    "dict": "caelum, caeli n. (pl. usually caeli, caelorum m.)",
+    "pos": "noun",
+    "decl": "2",
+    "gloss": {
+      "en": "heaven, sky",
+      "es": "cielo"
+    },
+    "stress": "cáe-lum",
+    "first": "pater-noster",
+    "cognate_es": "cielo, celeste",
+    "trap": "Pronunciation: c before ae sounds like Spanish 'ch': CHÉ-lis."
+  },
+  {
+    "lemma": "sanctifico",
+    "dict": "sanctifico, sanctificare, sanctificavi, sanctificatum",
+    "pos": "verb",
+    "decl": "conj 1",
+    "gloss": {
+      "en": "to make holy, hallow",
+      "es": "santificar"
+    },
+    "stress": "san-ctí-fi-co",
+    "first": "pater-noster",
+    "cognate_es": "santificar",
+    "trap": null
+  },
+  {
+    "lemma": "advenio",
+    "dict": "advenio, advenire, adveni, adventum",
+    "pos": "verb",
+    "decl": "conj 4",
+    "gloss": {
+      "en": "to come, arrive",
+      "es": "venir, llegar"
+    },
+    "stress": "ad-vé-ni-o",
+    "first": "pater-noster",
+    "cognate_es": "advenir, adviento",
+    "trap": null
+  },
+  {
+    "lemma": "regnum",
+    "dict": "regnum, regni n.",
+    "pos": "noun",
+    "decl": "2",
+    "gloss": {
+      "en": "kingdom, reign",
+      "es": "reino"
+    },
+    "stress": "ré-gnum",
+    "first": "pater-noster",
+    "cognate_es": "reino",
+    "trap": "Pronunciation: gn sounds like Spanish 'ñ': RÉ-ñum."
+  },
+  {
+    "lemma": "fio",
+    "dict": "fio, fieri, factus sum (irreg.; passive of facio)",
+    "pos": "verb",
+    "decl": "irreg.",
+    "gloss": {
+      "en": "to be made, be done, become",
+      "es": "hacerse, ser hecho, llegar a ser"
+    },
+    "stress": "fí-o",
+    "first": "pater-noster",
+    "cognate_es": null,
+    "trap": "False friend: 'fiat' has nothing to do with Spanish 'fiar' (to trust / sell on credit)."
+  },
+  {
+    "lemma": "voluntas",
+    "dict": "voluntas, voluntatis f.",
+    "pos": "noun",
+    "decl": "3",
+    "gloss": {
+      "en": "will",
+      "es": "voluntad"
+    },
+    "stress": "vo-lún-tas",
+    "first": "pater-noster",
+    "cognate_es": "voluntad",
+    "trap": null
+  },
+  {
+    "lemma": "terra",
+    "dict": "terra, terrae f.",
+    "pos": "noun",
+    "decl": "1",
+    "gloss": {
+      "en": "earth, land",
+      "es": "tierra"
+    },
+    "stress": "tér-ra",
+    "first": "pater-noster",
+    "cognate_es": "tierra",
+    "trap": null
+  },
+  {
+    "lemma": "panis",
+    "dict": "panis, panis m.",
+    "pos": "noun",
+    "decl": "3",
+    "gloss": {
+      "en": "bread",
+      "es": "pan"
+    },
+    "stress": "pá-nis",
+    "first": "pater-noster",
+    "cognate_es": "pan",
+    "trap": null
+  },
+  {
+    "lemma": "quotidianus",
+    "dict": "quotidianus, -a, -um (also cottidianus)",
+    "pos": "adj",
+    "decl": "1-2",
+    "gloss": {
+      "en": "daily",
+      "es": "cotidiano, de cada día"
+    },
+    "stress": "quo-ti-di-á-nus",
+    "first": "pater-noster",
+    "cognate_es": "cotidiano",
+    "trap": "Pronunciation: 'quo' sounds 'kwo' (Spanish 'cuo'), not 'ko'."
+  },
+  {
+    "lemma": "do",
+    "dict": "do, dare, dedi, datum",
+    "pos": "verb",
+    "decl": "conj 1",
+    "gloss": {
+      "en": "to give",
+      "es": "dar"
+    },
+    "stress": "do",
+    "first": "pater-noster",
+    "cognate_es": "dar",
+    "trap": null
+  },
+  {
+    "lemma": "hodie",
+    "dict": "hodie, adv.",
+    "pos": "adv",
+    "decl": null,
+    "gloss": {
+      "en": "today",
+      "es": "hoy"
+    },
+    "stress": "hó-di-e",
+    "first": "pater-noster",
+    "cognate_es": "hoy",
+    "trap": null
+  },
+  {
+    "lemma": "dimitto",
+    "dict": "dimitto, dimittere, dimisi, dimissum",
+    "pos": "verb",
+    "decl": "conj 3",
+    "gloss": {
+      "en": "to send away; forgive",
+      "es": "despedir; perdonar"
+    },
+    "stress": "di-mít-to",
+    "first": "pater-noster",
+    "cognate_es": null,
+    "trap": "False friend: not Spanish 'dimitir' (to resign); here it means to let go, forgive."
+  },
+  {
+    "lemma": "debitum",
+    "dict": "debitum, debiti n.",
+    "pos": "noun",
+    "decl": "2",
+    "gloss": {
+      "en": "debt",
+      "es": "deuda"
+    },
+    "stress": "dé-bi-tum",
+    "first": "pater-noster",
+    "cognate_es": "débito, deuda",
+    "trap": null
+  },
+  {
+    "lemma": "debitor",
+    "dict": "debitor, debitoris m.",
+    "pos": "noun",
+    "decl": "3",
+    "gloss": {
+      "en": "debtor",
+      "es": "deudor"
+    },
+    "stress": "dé-bi-tor",
+    "first": "pater-noster",
+    "cognate_es": "deudor",
+    "trap": null
+  },
+  {
+    "lemma": "ne",
+    "dict": "ne, adv./conj. (+ subjunctive)",
+    "pos": "particle",
+    "decl": null,
+    "gloss": {
+      "en": "not (in prohibitions and wishes); lest",
+      "es": "no (en prohibiciones y deseos); para que no"
+    },
+    "stress": "ne",
+    "first": "pater-noster",
+    "cognate_es": null,
+    "trap": "Not Spanish 'ni' (nor)."
+  },
+  {
+    "lemma": "induco",
+    "dict": "induco, inducere, induxi, inductum",
+    "pos": "verb",
+    "decl": "conj 3",
+    "gloss": {
+      "en": "to lead in, bring into",
+      "es": "conducir hacia, llevar a"
+    },
+    "stress": "in-dú-co",
+    "first": "pater-noster",
+    "cognate_es": "inducir",
+    "trap": null
+  },
+  {
+    "lemma": "tentatio",
+    "dict": "tentatio, tentationis f. (also temptatio)",
+    "pos": "noun",
+    "decl": "3",
+    "gloss": {
+      "en": "temptation, trial",
+      "es": "tentación, prueba"
+    },
+    "stress": "ten-tá-ti-o",
+    "first": "pater-noster",
+    "cognate_es": "tentación",
+    "trap": "Pronunciation: 'ti' before a vowel sounds 'tsi': ten-ta-TSI-Ó-nem."
+  },
+  {
+    "lemma": "sed",
+    "dict": "sed, conj.",
+    "pos": "conj",
+    "decl": null,
+    "gloss": {
+      "en": "but, rather",
+      "es": "sino, pero, mas"
+    },
+    "stress": "sed",
+    "first": "pater-noster",
+    "cognate_es": null,
+    "trap": "False friend: not Spanish 'sed' (thirst)."
+  },
+  {
+    "lemma": "libero",
+    "dict": "libero, liberare, liberavi, liberatum",
+    "pos": "verb",
+    "decl": "conj 1",
+    "gloss": {
+      "en": "to free, deliver",
+      "es": "liberar, librar"
+    },
+    "stress": "lí-be-ro",
+    "first": "pater-noster",
+    "cognate_es": "liberar",
+    "trap": null
+  },
+  {
+    "lemma": "a",
+    "dict": "a / ab, prep. + abl.",
+    "pos": "prep",
+    "decl": null,
+    "gloss": {
+      "en": "from, away from; by",
+      "es": "de, desde; por"
+    },
+    "stress": "a",
+    "first": "pater-noster",
+    "cognate_es": null,
+    "trap": "False friend: Latin 'a' means FROM, the opposite of Spanish 'a' (to)."
+  },
+  {
+    "lemma": "malus",
+    "dict": "malus, -a, -um",
+    "pos": "adj",
+    "decl": "1-2",
+    "gloss": {
+      "en": "bad, evil; (as noun) evil, the evil one",
+      "es": "malo; (como sustantivo) el mal, el maligno"
+    },
+    "stress": "má-lus",
+    "first": "pater-noster",
+    "cognate_es": "malo",
+    "trap": null
+  },
+  {
+    "lemma": "Kyrios",
+    "dict": "Kyrios (Greek Κύριος), voc. Kyrie, m.",
+    "pos": "noun",
+    "decl": null,
+    "gloss": {
+      "en": "Lord (Greek)",
+      "es": "Señor (griego)"
+    },
+    "stress": "Ký-ri-os",
+    "first": "kyrie",
+    "cognate_es": null,
+    "trap": "Greek, not Latin. Pronounced 'KÍ-ri-e', with y = i."
+  },
+  {
+    "lemma": "eleeo",
+    "dict": "eleeo (Greek ἐλεέω); aorist imperative eleison",
+    "pos": "verb",
+    "decl": null,
+    "gloss": {
+      "en": "to have mercy (Greek)",
+      "es": "tener piedad (griego)"
+    },
+    "stress": "e-le-é-o",
+    "first": "kyrie",
+    "cognate_es": "limosna (from Greek eleēmosynē)",
+    "trap": "Greek, not Latin. 'eleison' has four syllables: e-LÉ-i-son."
+  },
+  {
+    "lemma": "Christus",
+    "dict": "Christus, Christi m.",
+    "pos": "noun",
+    "decl": "2",
+    "gloss": {
+      "en": "Christ, the Anointed",
+      "es": "Cristo, el Ungido"
+    },
+    "stress": "Chrí-stus",
+    "first": "kyrie",
+    "cognate_es": "Cristo",
+    "trap": "Pronunciation: 'ch' sounds 'k', not Spanish 'ch'."
+  },
+  {
+    "lemma": "vos",
+    "dict": "vos, vestrum/vestri (pers. pron., 2nd pl.: vos, vobis, vos, vobis)",
+    "pos": "pron",
+    "decl": null,
+    "gloss": {
+      "en": "you (plural)",
+      "es": "ustedes, vosotros"
+    },
+    "stress": "vos",
+    "first": "dominus-vobiscum",
+    "cognate_es": "vos, vosotros",
+    "trap": null
+  },
+  {
+    "lemma": "cum",
+    "dict": "cum, prep. + abl.",
+    "pos": "prep",
+    "decl": null,
+    "gloss": {
+      "en": "with",
+      "es": "con"
+    },
+    "stress": "cum",
+    "first": "dominus-vobiscum",
+    "cognate_es": "con",
+    "trap": null
+  },
+  {
+    "lemma": "sursum",
+    "dict": "sursum, adv.",
+    "pos": "adv",
+    "decl": null,
+    "gloss": {
+      "en": "upward, on high",
+      "es": "hacia arriba"
+    },
+    "stress": "súr-sum",
+    "first": "dominus-vobiscum",
+    "cognate_es": null,
+    "trap": null
+  },
+  {
+    "lemma": "cor",
+    "dict": "cor, cordis n.",
+    "pos": "noun",
+    "decl": "3",
+    "gloss": {
+      "en": "heart",
+      "es": "corazón"
+    },
+    "stress": "cor",
+    "first": "dominus-vobiscum",
+    "cognate_es": "cordial, corazón",
+    "trap": null
+  },
+  {
+    "lemma": "habeo",
+    "dict": "habeo, habere, habui, habitum",
+    "pos": "verb",
+    "decl": "conj 2",
+    "gloss": {
+      "en": "to have, hold",
+      "es": "tener, haber"
+    },
+    "stress": "há-be-o",
+    "first": "dominus-vobiscum",
+    "cognate_es": "haber",
+    "trap": "Means 'to have/hold' (Spanish 'tener'), not just the helper verb 'haber'."
+  },
+  {
+    "lemma": "ad",
+    "dict": "ad, prep. + acc.",
+    "pos": "prep",
+    "decl": null,
+    "gloss": {
+      "en": "to, toward",
+      "es": "a, hacia"
+    },
+    "stress": "ad",
+    "first": "dominus-vobiscum",
+    "cognate_es": "a",
+    "trap": null
+  },
+  {
+    "lemma": "ago",
+    "dict": "ago, agere, egi, actum",
+    "pos": "verb",
+    "decl": "conj 3",
+    "gloss": {
+      "en": "to do, drive; (gratias agere) give thanks",
+      "es": "hacer, conducir; (gratias agere) dar gracias"
+    },
+    "stress": "á-go",
+    "first": "dominus-vobiscum",
+    "cognate_es": "actuar, agente",
+    "trap": null
+  },
+  {
+    "lemma": "dignus",
+    "dict": "dignus, -a, -um",
+    "pos": "adj",
+    "decl": "1-2",
+    "gloss": {
+      "en": "worthy, fitting",
+      "es": "digno"
+    },
+    "stress": "dí-gnus",
+    "first": "dominus-vobiscum",
+    "cognate_es": "digno",
+    "trap": "Pronunciation: gn sounds like 'ñ': DÍ-ñum."
+  },
+  {
+    "lemma": "iustus",
+    "dict": "iustus, -a, -um",
+    "pos": "adj",
+    "decl": "1-2",
+    "gloss": {
+      "en": "just, right",
+      "es": "justo"
+    },
+    "stress": "iú-stus",
+    "first": "dominus-vobiscum",
+    "cognate_es": "justo",
+    "trap": "Pronunciation: initial i is a consonant 'y': YÚ-stum."
+  },
+  {
+    "lemma": "Sabaoth",
+    "dict": "Sabaoth, indecl. (Hebrew)",
+    "pos": "noun",
+    "decl": null,
+    "gloss": {
+      "en": "hosts, armies",
+      "es": "ejércitos"
+    },
+    "stress": "Sá-ba-oth",
+    "first": "sanctus",
+    "cognate_es": null,
+    "trap": "Hebrew, not Latin."
+  },
+  {
+    "lemma": "hosanna",
+    "dict": "hosanna, interj. indecl. (Hebrew)",
+    "pos": "interjection",
+    "decl": null,
+    "gloss": {
+      "en": "hosanna (shout of praise; orig. 'save, please')",
+      "es": "hosanna (grito de alabanza; orig. 'salva, te rogamos')"
+    },
+    "stress": "ho-sán-na",
+    "first": "sanctus",
+    "cognate_es": "hosanna",
+    "trap": "Hebrew, not Latin."
+  },
+  {
+    "lemma": "excelsus",
+    "dict": "excelsus, -a, -um",
+    "pos": "adj",
+    "decl": "1-2",
+    "gloss": {
+      "en": "high, lofty; (n. pl. as noun) the heights",
+      "es": "excelso, alto; (n. pl. como sustantivo) las alturas"
+    },
+    "stress": "ex-cél-sus",
+    "first": "sanctus",
+    "cognate_es": "excelso",
+    "trap": "Pronunciation: 'xc' before e sounds 'ksh': ek-SHÉL-sis."
+  },
+  {
+    "lemma": "venio",
+    "dict": "venio, venire, veni, ventum",
+    "pos": "verb",
+    "decl": "conj 4",
+    "gloss": {
+      "en": "to come",
+      "es": "venir"
+    },
+    "stress": "vé-ni-o",
+    "first": "sanctus",
+    "cognate_es": "venir",
+    "trap": "'venit' can be present (comes) or perfect (came, vēnit); only context tells."
+  },
+  {
+    "lemma": "agnus",
+    "dict": "agnus, agni m.",
+    "pos": "noun",
+    "decl": "2",
+    "gloss": {
+      "en": "lamb",
+      "es": "cordero"
+    },
+    "stress": "á-gnus",
+    "first": "agnus-dei",
+    "cognate_es": null,
+    "trap": "Pronunciation: gn sounds like 'ñ': Á-ñus."
+  },
+  {
+    "lemma": "tollo",
+    "dict": "tollo, tollere, sustuli, sublatum",
+    "pos": "verb",
+    "decl": "conj 3",
+    "gloss": {
+      "en": "to lift, take away",
+      "es": "levantar, quitar"
+    },
+    "stress": "tól-lo",
+    "first": "agnus-dei",
+    "cognate_es": null,
+    "trap": null
+  },
+  {
+    "lemma": "peccatum",
+    "dict": "peccatum, peccati n.",
+    "pos": "noun",
+    "decl": "2",
+    "gloss": {
+      "en": "sin",
+      "es": "pecado"
+    },
+    "stress": "pec-cá-tum",
+    "first": "agnus-dei",
+    "cognate_es": "pecado",
+    "trap": null
+  },
+  {
+    "lemma": "mundus",
+    "dict": "mundus, mundi m.",
+    "pos": "noun",
+    "decl": "2",
+    "gloss": {
+      "en": "world",
+      "es": "mundo"
+    },
+    "stress": "mún-dus",
+    "first": "agnus-dei",
+    "cognate_es": "mundo",
+    "trap": null
+  },
+  {
+    "lemma": "misereor",
+    "dict": "misereor, misereri, misertus sum (deponent)",
+    "pos": "verb",
+    "decl": "conj 2",
+    "gloss": {
+      "en": "to have mercy, pity",
+      "es": "tener piedad, compadecerse"
+    },
+    "stress": "mi-se-ré-or",
+    "first": "agnus-dei",
+    "cognate_es": "misericordia",
+    "trap": "'miserere' looks like an infinitive but is an imperative: 'have mercy!'."
+  },
+  {
+    "lemma": "dono",
+    "dict": "dono, donare, donavi, donatum",
+    "pos": "verb",
+    "decl": "conj 1",
+    "gloss": {
+      "en": "to give, grant",
+      "es": "dar, conceder"
+    },
+    "stress": "dó-no",
+    "first": "agnus-dei",
+    "cognate_es": "donar",
+    "trap": null
+  },
+  {
+    "lemma": "pax",
+    "dict": "pax, pacis f.",
+    "pos": "noun",
+    "decl": "3",
+    "gloss": {
+      "en": "peace",
+      "es": "paz"
+    },
+    "stress": "pax",
+    "first": "agnus-dei",
+    "cognate_es": "paz",
+    "trap": "Pronunciation: c before e sounds 'ch': PÁ-chem."
+  }
+]
